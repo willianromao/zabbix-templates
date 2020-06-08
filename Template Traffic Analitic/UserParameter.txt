@@ -1,0 +1,2 @@
+iftop -NtP -s 40 -L 5 -i em0
+date ; iftop -NtP -s 40 -L 5 -o 2s -i em0 > iftop_em0.tmp ; date

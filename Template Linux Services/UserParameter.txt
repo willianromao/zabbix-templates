@@ -1,0 +1,3 @@
+UserParameter=service.scan,/root/scripts/service_scan.sh
+
+UserParameter=service.status[*],/root/scripts/service.sh $1

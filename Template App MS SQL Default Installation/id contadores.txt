@@ -1,0 +1,7215 @@
+1
+1847
+2
+System
+4
+Memory
+6
+% Processor Time
+10
+File Read Operations/sec
+12
+File Write Operations/sec
+14
+File Control Operations/sec
+16
+File Read Bytes/sec
+18
+File Write Bytes/sec
+20
+File Control Bytes/sec
+24
+Available Bytes
+26
+Committed Bytes
+28
+Page Faults/sec
+30
+Commit Limit
+32
+Write Copies/sec
+34
+Transition Faults/sec
+36
+Cache Faults/sec
+38
+Demand Zero Faults/sec
+40
+Pages/sec
+42
+Page Reads/sec
+44
+Processor Queue Length
+46
+Thread State
+48
+Pages Output/sec
+50
+Page Writes/sec
+52
+Browser
+54
+Announcements Server/sec
+56
+Pool Paged Bytes
+58
+Pool Nonpaged Bytes
+60
+Pool Paged Allocs
+64
+Pool Nonpaged Allocs
+66
+Pool Paged Resident Bytes
+68
+System Code Total Bytes
+70
+System Code Resident Bytes
+72
+System Driver Total Bytes
+74
+System Driver Resident Bytes
+76
+System Cache Resident Bytes
+78
+Announcements Domain/sec
+80
+Election Packets/sec
+82
+Mailslot Writes/sec
+84
+Server List Requests/sec
+86
+Cache
+88
+Data Maps/sec
+90
+Sync Data Maps/sec
+92
+Async Data Maps/sec
+94
+Data Map Hits %
+96
+Data Map Pins/sec
+98
+Pin Reads/sec
+100
+Sync Pin Reads/sec
+102
+Async Pin Reads/sec
+104
+Pin Read Hits %
+106
+Copy Reads/sec
+108
+Sync Copy Reads/sec
+110
+Async Copy Reads/sec
+112
+Copy Read Hits %
+114
+MDL Reads/sec
+116
+Sync MDL Reads/sec
+118
+Async MDL Reads/sec
+120
+MDL Read Hits %
+122
+Read Aheads/sec
+124
+Fast Reads/sec
+126
+Sync Fast Reads/sec
+128
+Async Fast Reads/sec
+130
+Fast Read Resource Misses/sec
+132
+Fast Read Not Possibles/sec
+134
+Lazy Write Flushes/sec
+136
+Lazy Write Pages/sec
+138
+Data Flushes/sec
+140
+Data Flush Pages/sec
+142
+% User Time
+144
+% Privileged Time
+146
+Context Switches/sec
+148
+Interrupts/sec
+150
+System Calls/sec
+152
+Level 1 TLB Fills/sec
+154
+Level 2 TLB Fills/sec
+156
+Enumerations Server/sec
+158
+Enumerations Domain/sec
+160
+Enumerations Other/sec
+162
+Missed Server Announcements
+164
+Missed Mailslot Datagrams
+166
+Missed Server List Requests
+168
+Server Announce Allocations Failed/sec
+170
+Mailslot Allocations Failed
+172
+Virtual Bytes Peak
+174
+Virtual Bytes
+178
+Working Set Peak
+180
+Working Set
+182
+Page File Bytes Peak
+184
+Page File Bytes
+186
+Private Bytes
+188
+Announcements Total/sec
+190
+Enumerations Total/sec
+198
+Current Disk Queue Length
+200
+% Disk Time
+202
+% Disk Read Time
+204
+% Disk Write Time
+206
+Avg. Disk sec/Transfer
+208
+Avg. Disk sec/Read
+210
+Avg. Disk sec/Write
+212
+Disk Transfers/sec
+214
+Disk Reads/sec
+216
+Disk Writes/sec
+218
+Disk Bytes/sec
+220
+Disk Read Bytes/sec
+222
+Disk Write Bytes/sec
+224
+Avg. Disk Bytes/Transfer
+226
+Avg. Disk Bytes/Read
+228
+Avg. Disk Bytes/Write
+230
+Process
+232
+Thread
+234
+PhysicalDisk
+236
+LogicalDisk
+238
+Processor
+240
+% Total Processor Time
+242
+% Total User Time
+244
+% Total Privileged Time
+246
+Total Interrupts/sec
+248
+Processes
+250
+Threads
+252
+Events
+254
+Semaphores
+256
+Mutexes
+258
+Sections
+260
+Objects
+262
+Redirector
+264
+Bytes Received/sec
+266
+Packets Received/sec
+268
+Read Bytes Paging/sec
+270
+Read Bytes Non-Paging/sec
+272
+Read Bytes Cache/sec
+274
+Read Bytes Network/sec
+276
+Bytes Transmitted/sec
+278
+Packets Transmitted/sec
+280
+Write Bytes Paging/sec
+282
+Write Bytes Non-Paging/sec
+284
+Write Bytes Cache/sec
+286
+Write Bytes Network/sec
+288
+Read Operations/sec
+290
+Read Operations Random/sec
+292
+Read Packets/sec
+294
+Reads Large/sec
+296
+Read Packets Small/sec
+298
+Write Operations/sec
+300
+Write Operations Random/sec
+302
+Write Packets/sec
+304
+Writes Large/sec
+306
+Write Packets Small/sec
+308
+Reads Denied/sec
+310
+Writes Denied/sec
+312
+Network Errors/sec
+314
+Server Sessions
+316
+Server Reconnects
+318
+Connects Core
+320
+Connects Lan Manager 2.0
+322
+Connects Lan Manager 2.1
+324
+Connects Windows NT
+326
+Server Disconnects
+328
+Server Sessions Hung
+330
+Server
+336
+Thread Wait Reason
+340
+Sessions Timed Out
+342
+Sessions Errored Out
+344
+Sessions Logged Off
+346
+Sessions Forced Off
+348
+Errors Logon
+350
+Errors Access Permissions
+352
+Errors Granted Access
+354
+Errors System
+356
+Blocking Requests Rejected
+358
+Work Item Shortages
+360
+Files Opened Total
+362
+Files Open
+366
+File Directory Searches
+370
+Pool Nonpaged Failures
+372
+Pool Nonpaged Peak
+376
+Pool Paged Failures
+378
+Pool Paged Peak
+388
+Bytes Total/sec
+392
+Current Commands
+398
+NWLink NetBIOS
+400
+Packets/sec
+404
+Context Blocks Queued/sec
+406
+File Data Operations/sec
+408
+% Free Space
+410
+Free Megabytes
+412
+Connections Open
+414
+Connections No Retries
+416
+Connections With Retries
+418
+Disconnects Local
+420
+Disconnects Remote
+422
+Failures Link
+424
+Failures Adapter
+426
+Connection Session Timeouts
+428
+Connections Canceled
+430
+Failures Resource Remote
+432
+Failures Resource Local
+434
+Failures Not Found
+436
+Failures No Listen
+438
+Datagrams/sec
+440
+Datagram Bytes/sec
+442
+Datagrams Sent/sec
+444
+Datagram Bytes Sent/sec
+446
+Datagrams Received/sec
+448
+Datagram Bytes Received/sec
+452
+Packets Sent/sec
+456
+Frames/sec
+458
+Frame Bytes/sec
+460
+Frames Sent/sec
+462
+Frame Bytes Sent/sec
+464
+Frames Received/sec
+466
+Frame Bytes Received/sec
+468
+Frames Re-Sent/sec
+470
+Frame Bytes Re-Sent/sec
+472
+Frames Rejected/sec
+474
+Frame Bytes Rejected/sec
+476
+Expirations Response
+478
+Expirations Ack
+480
+Window Send Maximum
+482
+Window Send Average
+484
+Piggyback Ack Queued/sec
+486
+Piggyback Ack Timeouts
+488
+NWLink IPX
+490
+NWLink SPX
+492
+NetBEUI
+494
+NetBEUI Resource
+496
+Used Maximum
+498
+Used Average
+500
+Times Exhausted
+502
+NBT Connection
+506
+Bytes Sent/sec
+508
+Total Bytes/sec
+510
+Network Interface
+512
+Bytes/sec
+520
+Current Bandwidth
+524
+Packets Received Unicast/sec
+526
+Packets Received Non-Unicast/sec
+528
+Packets Received Discarded
+530
+Packets Received Errors
+532
+Packets Received Unknown
+536
+Packets Sent Unicast/sec
+538
+Packets Sent Non-Unicast/sec
+540
+Packets Outbound Discarded
+542
+Packets Outbound Errors
+544
+Output Queue Length
+546
+IPv4
+548
+IPv6
+552
+Datagrams Received Header Errors
+554
+Datagrams Received Address Errors
+556
+Datagrams Forwarded/sec
+558
+Datagrams Received Unknown Protocol
+560
+Datagrams Received Discarded
+562
+Datagrams Received Delivered/sec
+566
+Datagrams Outbound Discarded
+568
+Datagrams Outbound No Route
+570
+Fragments Received/sec
+572
+Fragments Re-assembled/sec
+574
+Fragment Re-assembly Failures
+576
+Fragmented Datagrams/sec
+578
+Fragmentation Failures
+580
+Fragments Created/sec
+582
+ICMP
+584
+Messages/sec
+586
+Messages Received/sec
+588
+Messages Received Errors
+590
+Received Dest. Unreachable
+592
+Received Time Exceeded
+594
+Received Parameter Problem
+596
+Received Source Quench
+598
+Received Redirect/sec
+600
+Received Echo/sec
+602
+Received Echo Reply/sec
+604
+Received Timestamp/sec
+606
+Received Timestamp Reply/sec
+608
+Received Address Mask
+610
+Received Address Mask Reply
+612
+Messages Sent/sec
+614
+Messages Outbound Errors
+616
+Sent Destination Unreachable
+618
+Sent Time Exceeded
+620
+Sent Parameter Problem
+622
+Sent Source Quench
+624
+Sent Redirect/sec
+626
+Sent Echo/sec
+628
+Sent Echo Reply/sec
+630
+Sent Timestamp/sec
+632
+Sent Timestamp Reply/sec
+634
+Sent Address Mask
+636
+Sent Address Mask Reply
+638
+TCPv4
+640
+Segments/sec
+642
+Connections Established
+644
+Connections Active
+646
+Connections Passive
+648
+Connection Failures
+650
+Connections Reset
+652
+Segments Received/sec
+654
+Segments Sent/sec
+656
+Segments Retransmitted/sec
+658
+UDPv4
+660
+% Total DPC Time
+662
+% Total Interrupt Time
+664
+Datagrams No Port/sec
+666
+Datagrams Received Errors
+670
+Disk Storage Unit
+672
+Allocation Failures
+674
+System Up Time
+676
+System Handle Count
+678
+Free System Page Table Entries
+680
+Thread Count
+682
+Priority Base
+684
+Elapsed Time
+686
+Alignment Fixups/sec
+688
+Exception Dispatches/sec
+690
+Floating Emulations/sec
+692
+Logon/sec
+694
+Priority Current
+696
+% DPC Time
+698
+% Interrupt Time
+700
+Paging File
+702
+% Usage
+704
+% Usage Peak
+706
+Start Address
+708
+User PC
+710
+Mapped Space No Access
+712
+Mapped Space Read Only
+714
+Mapped Space Read/Write
+716
+Mapped Space Write Copy
+718
+Mapped Space Executable
+720
+Mapped Space Exec Read Only
+722
+Mapped Space Exec Read/Write
+724
+Mapped Space Exec Write Copy
+726
+Reserved Space No Access
+728
+Reserved Space Read Only
+730
+Reserved Space Read/Write
+732
+Reserved Space Write Copy
+734
+Reserved Space Executable
+736
+Reserved Space Exec Read Only
+738
+Reserved Space Exec Read/Write
+740
+Image
+742
+Reserved Space Exec Write Copy
+744
+Unassigned Space No Access
+746
+Unassigned Space Read Only
+748
+Unassigned Space Read/Write
+750
+Unassigned Space Write Copy
+752
+Unassigned Space Executable
+754
+Unassigned Space Exec Read Only
+756
+Unassigned Space Exec Read/Write
+758
+Unassigned Space Exec Write Copy
+760
+Image Space No Access
+762
+Image Space Read Only
+764
+Image Space Read/Write
+766
+Image Space Write Copy
+768
+Image Space Executable
+770
+Image Space Exec Read Only
+772
+Image Space Exec Read/Write
+774
+Image Space Exec Write Copy
+776
+Bytes Image Reserved
+778
+Bytes Image Free
+780
+Bytes Reserved
+782
+Bytes Free
+784
+ID Process
+786
+Process Address Space
+788
+No Access
+790
+Read Only
+792
+Read/Write
+794
+Write Copy
+796
+Executable
+798
+Exec Read Only
+800
+Exec Read/Write
+802
+Exec Write Copy
+804
+ID Thread
+806
+Mailslot Receives Failed
+808
+Mailslot Writes Failed
+810
+Mailslot Opens Failed/sec
+812
+Duplicate Master Announcements
+814
+Illegal Datagrams/sec
+816
+Thread Details
+818
+Cache Bytes
+820
+Cache Bytes Peak
+822
+Pages Input/sec
+824
+Transition Pages RePurposed/sec
+872
+Bytes Transmitted
+874
+Bytes Received
+876
+Frames Transmitted
+878
+Frames Received.
+880
+Percent Compression Out
+882
+Percent Compression In
+884
+CRC Errors
+886
+Timeout Errors
+888
+Serial Overrun Errors
+890
+Alignment Errors
+892
+Buffer Overrun Errors
+894
+Total Errors
+896
+Bytes Transmitted/Sec
+898
+Bytes Received/Sec
+900
+Frames Transmitted/Sec
+902
+Frames Received/Sec
+904
+Total Errors/Sec
+908
+Total Connections
+920
+WINS Server
+922
+Unique Registrations/sec
+924
+Group Registrations/sec
+926
+Total Number of Registrations/sec
+928
+Unique Renewals/sec
+930
+Group Renewals/sec
+932
+Total Number of Renewals/sec
+934
+Releases/sec
+936
+Queries/sec
+938
+Unique Conflicts/sec
+940
+Group Conflicts/sec
+942
+Total Number of Conflicts/sec
+944
+Successful Releases/sec
+946
+Failed Releases/sec
+948
+Successful Queries/sec
+950
+Failed Queries/sec
+952
+Handle Count
+1000
+MacFile Server
+1002
+Max Paged Memory
+1004
+Current Paged Memory
+1006
+Max NonPaged Memory
+1008
+Current NonPaged memory
+1010
+Current Sessions
+1012
+Maximum Sessions
+1014
+Current Files Open
+1016
+Maximum Files Open
+1018
+Failed Logons
+1020
+Data Read/sec
+1022
+Data Written/sec
+1024
+Data Received/sec
+1026
+Data Transmitted/sec
+1028
+Current Queue Length
+1030
+Maximum Queue Length
+1032
+Current Threads
+1034
+Maximum Threads
+1050
+AppleTalk
+1052
+Packets In/sec
+1054
+Packets Out/sec
+1056
+Bytes In/sec
+1058
+Bytes Out/sec
+1060
+Average Time/DDP Packet
+1062
+DDP Packets/sec
+1064
+Average Time/AARP Packet
+1066
+AARP Packets/sec
+1068
+Average Time/ATP Packet
+1070
+ATP Packets/sec
+1072
+Average Time/NBP Packet
+1074
+NBP Packets/sec
+1076
+Average Time/ZIP Packet
+1078
+ZIP Packets/sec
+1080
+Average Time/RTMP Packet
+1082
+RTMP Packets/sec
+1084
+ATP Retries Local
+1086
+ATP Response Timouts
+1088
+ATP XO Response/Sec
+1090
+ATP ALO Response/Sec
+1092
+ATP Recvd Release/Sec
+1094
+Current NonPaged Pool
+1096
+Packets Routed In/Sec
+1098
+Packets dropped
+1100
+ATP Retries Remote
+1102
+Packets Routed Out/Sec
+1110
+Network Segment
+1112
+Total frames received/second
+1114
+Total bytes received/second
+1116
+Broadcast frames received/second
+1118
+Multicast frames received/second
+1120
+% Network utilization
+1124
+% Broadcast Frames
+1126
+% Multicast Frames
+1150
+Telephony
+1152
+Lines
+1154
+Telephone Devices
+1156
+Active Lines
+1158
+Active Telephones
+1160
+Outgoing Calls/sec
+1162
+Incoming Calls/sec
+1164
+Client Apps
+1166
+Current Outgoing Calls
+1168
+Current Incoming Calls
+1232
+Packet Burst Read NCP Count/sec
+1234
+Packet Burst Read Timeouts/sec
+1236
+Packet Burst Write NCP Count/sec
+1238
+Packet Burst Write Timeouts/sec
+1240
+Packet Burst IO/sec
+1260
+Logon Total
+1300
+Server Work Queues
+1302
+Queue Length
+1304
+Active Threads
+1306
+Available Threads
+1308
+Available Work Items
+1310
+Borrowed Work Items
+1312
+Work Item Shortages
+1314
+Current Clients
+1320
+Bytes Transferred/sec
+1324
+Read Bytes/sec
+1328
+Write Bytes/sec
+1332
+Total Operations/sec
+1334
+DPCs Queued/sec
+1336
+DPC Rate
+1342
+Total DPCs Queued/sec
+1344
+Total DPC Rate
+1350
+% Registry Quota In Use
+1360
+VL Memory
+1362
+VLM % Virtual Size In Use
+1364
+VLM Virtual Size
+1366
+VLM Virtual Size Peak
+1368
+VLM Virtual Size Available
+1370
+VLM Commit Charge
+1372
+VLM Commit Charge Peak
+1374
+System VLM Commit Charge
+1376
+System VLM Commit Charge Peak
+1378
+System VLM Shared Commit Charge
+1380
+Available KBytes
+1382
+Available MBytes
+1400
+Avg. Disk Queue Length
+1402
+Avg. Disk Read Queue Length
+1404
+Avg. Disk Write Queue Length
+1406
+% Committed Bytes In Use
+1408
+Full Image
+1410
+Creating Process ID
+1412
+IO Read Operations/sec
+1414
+IO Write Operations/sec
+1416
+IO Data Operations/sec
+1418
+IO Other Operations/sec
+1420
+IO Read Bytes/sec
+1422
+IO Write Bytes/sec
+1424
+IO Data Bytes/sec
+1426
+IO Other Bytes/sec
+1450
+Print Queue
+1452
+Total Jobs Printed
+1454
+Bytes Printed/sec
+1456
+Total Pages Printed
+1458
+Jobs
+1460
+References
+1462
+Max References
+1464
+Jobs Spooling
+1466
+Max Jobs Spooling
+1468
+Out of Paper Errors
+1470
+Not Ready Errors
+1472
+Job Errors
+1474
+Enumerate Network Printer Calls
+1476
+Add Network Printer Calls
+1478
+Working Set - Private
+1480
+Working Set - Shared
+1482
+% Idle Time
+1484
+Split IO/Sec
+1500
+Job Object
+1502
+Current % Processor Time
+1504
+Current % User Mode Time
+1506
+Current % Kernel Mode Time
+1508
+This Period mSec - Processor
+1510
+This Period mSec - User Mode
+1512
+This Period mSec - Kernel Mode
+1514
+Pages/Sec
+1516
+Process Count - Total
+1518
+Process Count - Active
+1520
+Process Count - Terminated
+1522
+Total mSec - Processor
+1524
+Total mSec - User Mode
+1526
+Total mSec - Kernel Mode
+1530
+TCPv6
+1532
+UDPv6
+1534
+ICMPv6
+1536
+Received Packet Too Big
+1538
+Received Membership Query
+1540
+Received Membership Report
+1542
+Received Membership Reduction
+1544
+Received Router Solicit
+1546
+Received Router Advert
+1548
+Job Object Details
+1550
+Received Neighbor Solicit
+1552
+Received Neighbor Advert
+1554
+Sent Packet Too Big
+1556
+Sent Membership Query
+1558
+Sent Membership Report
+1560
+Sent Membership Reduction
+1562
+Sent Router Solicit
+1564
+Sent Router Advert
+1566
+Sent Neighbor Solicit
+1568
+Sent Neighbor Advert
+1570
+Security System-Wide Statistics
+1572
+NTLM Authentications
+1574
+Kerberos Authentications
+1576
+KDC AS Requests
+1578
+KDC TGS Requests
+1580
+Schannel Session Cache Entries
+1582
+Active Schannel Session Cache Entries
+1584
+SSL Client-Side Full Handshakes
+1586
+SSL Client-Side Reconnect Handshakes
+1588
+SSL Server-Side Full Handshakes
+1590
+SSL Server-Side Reconnect Handshakes
+1592
+Digest Authentications
+1670
+Security Per-Process Statistics
+1672
+Credential Handles
+1674
+Context Handles
+1676
+Free & Zero Page List Bytes
+1678
+Modified Page List Bytes
+1680
+Standby Cache Reserve Bytes
+1682
+Standby Cache Normal Priority Bytes
+1684
+Standby Cache Core Bytes
+1746
+% Idle Time
+1748
+% C1 Time
+1750
+% C2 Time
+1752
+% C3 Time
+1754
+C1 Transitions/sec
+1756
+C2 Transitions/sec
+1758
+C3 Transitions/sec
+1760
+Heap
+1762
+Committed Bytes
+1764
+Reserved Bytes
+1766
+Virtual Bytes
+1768
+Free Bytes
+1770
+Free List Length
+1772
+Avg. alloc rate
+1774
+Avg. free rate
+1776
+Uncommitted Ranges Length
+1778
+Allocs - Frees
+1780
+Cached Allocs/sec
+1782
+Cached Frees/sec
+1784
+Allocs <1K/sec
+1786
+Frees <1K/sec
+1788
+Allocs 1-8K/sec
+1790
+Frees 1-8K/sec
+1792
+Allocs over 8K/sec
+1794
+Frees over 8K/sec
+1796
+Total Allocs/sec
+1798
+Total Frees/sec
+1800
+Blocks in Heap Cache
+1802
+Largest Cache Depth
+1804
+% Fragmentation
+1806
+% VAFragmentation
+1808
+Heap Lock contention
+1846
+End Marker
+2182
+RAS Port
+2184
+Bytes Transmitted
+2186
+Bytes Received
+2188
+Frames Transmitted
+2190
+Frames Received
+2192
+Percent Compression Out
+2194
+Percent Compression In
+2196
+CRC Errors
+2198
+Timeout Errors
+2200
+Serial Overrun Errors
+2202
+Alignment Errors
+2204
+Buffer Overrun Errors
+2206
+Total Errors
+2208
+Bytes Transmitted/Sec
+2210
+Bytes Received/Sec
+2212
+Frames Transmitted/Sec
+2214
+Frames Received/Sec
+2216
+Total Errors/Sec
+2218
+RAS Total
+2220
+Total Connections
+2222
+BITS Net Utilization
+2224
+Remote Server Speed (Bits/Sec)
+2226
+Netcard Speed (Bits/Sec)
+2228
+Percent Netcard Free
+2230
+IGD Speed (Bits/Sec)
+2232
+Percent IGD Free
+2234
+BITS Download BlockSize (Bytes)
+2236
+BITS Download Response Interval (msec)
+2238
+Estimated bandwidth available to the remote system (Bits/sec)
+2240
+Telephony
+2242
+Number of Lines
+2244
+Number of Telephone devices
+2246
+Number of Active Lines
+2248
+Number of Active Telephones
+2250
+Outgoing calls/sec
+2252
+Incoming calls/sec
+2254
+Number of Client Apps
+2256
+Current Outgoing Calls
+2258
+Current Incoming Calls
+2610
+Distributed Transaction Coordinator
+2612
+Active Transactions
+2614
+Committed Transactions
+2616
+Aborted Transactions
+2618
+In Doubt Transactions
+2620
+Active Transactions Maximum
+2622
+Force Committed Transactions
+2624
+Force Aborted Transactions
+2626
+Response Time -- Minimum
+2628
+Response Time -- Average
+2630
+Response Time -- Maximum
+2632
+Transactions/sec
+2634
+Committed Transactions/sec
+2636
+Aborted Transactions/sec
+2708
+.NET CLR Networking
+2710
+Connections Established
+2712
+Bytes Received
+2714
+Bytes Sent
+2716
+Datagrams Received
+2718
+Datagrams Sent
+2720
+.NET Data Provider for SqlServer
+2722
+HardConnectsPerSecond
+2724
+HardDisconnectsPerSecond
+2726
+SoftConnectsPerSecond
+2728
+SoftDisconnectsPerSecond
+2730
+NumberOfNonPooledConnections
+2732
+NumberOfPooledConnections
+2734
+NumberOfActiveConnectionPoolGroups
+2736
+NumberOfInactiveConnectionPoolGroups
+2738
+NumberOfActiveConnectionPools
+2740
+NumberOfInactiveConnectionPools
+2742
+NumberOfActiveConnections
+2744
+NumberOfFreeConnections
+2746
+NumberOfStasisConnections
+2748
+NumberOfReclaimedConnections
+2750
+.NET CLR Data
+2752
+SqlClient: Current # pooled and nonpooled connections
+2754
+SqlClient: Current # pooled connections
+2756
+SqlClient: Current # connection pools
+2758
+SqlClient: Peak # pooled connections
+2760
+SqlClient: Total # failed connects
+2762
+SqlClient: Total # failed commands
+2764
+.NET CLR Memory
+2766
+# Gen 0 Collections
+2768
+# Gen 1 Collections
+2770
+# Gen 2 Collections
+2772
+Promoted Memory from Gen 0
+2774
+Promoted Memory from Gen 1
+2776
+Gen 0 Promoted Bytes/Sec
+2778
+Gen 1 Promoted Bytes/Sec
+2780
+Promoted Finalization-Memory from Gen 0
+2782
+Process ID
+2784
+Gen 0 heap size
+2786
+Gen 1 heap size
+2788
+Gen 2 heap size
+2790
+Large Object Heap size
+2792
+Finalization Survivors
+2794
+# GC Handles
+2796
+Allocated Bytes/sec
+2798
+# Induced GC
+2800
+% Time in GC
+2802
+Not Displayed
+2804
+# Bytes in all Heaps
+2806
+# Total committed Bytes
+2808
+# Total reserved Bytes
+2810
+# of Pinned Objects
+2812
+# of Sink Blocks in use
+2814
+.NET CLR Loading
+2816
+Total Classes Loaded
+2818
+% Time Loading
+2820
+Assembly Search Length
+2822
+Total # of Load Failures
+2824
+Rate of Load Failures
+2826
+Bytes in Loader Heap
+2828
+Total appdomains unloaded
+2830
+Rate of appdomains unloaded
+2832
+Current Classes Loaded
+2834
+Rate of Classes Loaded
+2836
+Current appdomains
+2838
+Total Appdomains
+2840
+Rate of appdomains
+2842
+Current Assemblies
+2844
+Total Assemblies
+2846
+Rate of Assemblies
+2848
+.NET CLR Jit
+2850
+# of Methods Jitted
+2852
+# of IL Bytes Jitted
+2854
+Total # of IL Bytes Jitted
+2856
+IL Bytes Jitted / sec
+2858
+Standard Jit Failures
+2860
+% Time in Jit
+2862
+Not Displayed
+2864
+.NET CLR Interop
+2866
+# of CCWs
+2868
+# of Stubs
+2870
+# of marshalling
+2872
+# of TLB imports / sec
+2874
+# of TLB exports / sec
+2876
+.NET CLR LocksAndThreads
+2878
+Total # of Contentions
+2880
+Contention Rate / sec
+2882
+Current Queue Length
+2884
+Queue Length Peak
+2886
+Queue Length / sec
+2888
+# of current logical Threads
+2890
+# of current physical Threads
+2892
+# of current recognized threads
+2894
+# of total recognized threads
+2896
+rate of recognized threads / sec
+2898
+.NET CLR Security
+2900
+Total Runtime Checks
+2902
+% Time Sig. Authenticating
+2904
+# Link Time Checks
+2906
+% Time in RT checks
+2908
+Not Displayed
+2910
+Stack Walk Depth
+2912
+.NET CLR Remoting
+2914
+Remote Calls/sec
+2916
+Channels
+2918
+Context Proxies
+2920
+Context-Bound Classes Loaded
+2922
+Context-Bound Objects Alloc / sec
+2924
+Contexts
+2926
+Total Remote Calls
+2928
+.NET CLR Exceptions
+2930
+# of Exceps Thrown
+2932
+# of Exceps Thrown / sec
+2934
+# of Filters / sec
+2936
+# of Finallys / sec
+2938
+Throw To Catch Depth / sec
+2940
+.NET Data Provider for Oracle
+2942
+HardConnectsPerSecond
+2944
+HardDisconnectsPerSecond
+2946
+SoftConnectsPerSecond
+2948
+SoftDisconnectsPerSecond
+2950
+NumberOfNonPooledConnections
+2952
+NumberOfPooledConnections
+2954
+NumberOfActiveConnectionPoolGroups
+2956
+NumberOfInactiveConnectionPoolGroups
+2958
+NumberOfActiveConnectionPools
+2960
+NumberOfInactiveConnectionPools
+2962
+NumberOfActiveConnections
+2964
+NumberOfFreeConnections
+2966
+NumberOfStasisConnections
+2968
+NumberOfReclaimedConnections
+2970
+Database
+2972
+Pages Converted/sec
+2974
+Pages Converted
+2976
+Records Converted/sec
+2978
+Records Converted
+2980
+Heap Allocs/sec
+2982
+Heap Frees/sec
+2984
+Heap Allocations
+2986
+Heap Bytes Allocated
+2988
+Page Bytes Reserved
+2990
+Page Bytes Committed
+2992
+FCB Asynchronous Scan/sec
+2994
+FCB Asynchronous Purge/sec
+2996
+FCB Asynchronous Threshold-Scan/sec
+2998
+FCB Asynchronous Threshold-Purge/sec
+3000
+FCB Asynchronous Purge Conflicts/sec
+3002
+FCB Synchronous Purge/sec
+3004
+FCB Synchronous Purge Stalls/sec
+3006
+FCB Allocations Wait For Version Cleanup/sec
+3008
+FCB Purge On Cursor Close/sec
+3010
+FCB Cache % Hit
+3012
+No name
+3014
+FCB Cache Stalls/sec
+3016
+FCB Cache Maximum
+3018
+FCB Cache Preferred
+3020
+FCB Cache Allocated
+3022
+FCB Cache Available
+3024
+Sessions In Use
+3026
+Sessions % Used
+3028
+No name
+3030
+Table Open Cache % Hit
+3032
+No name
+3034
+Table Open Cache Hits/sec
+3036
+Table Open Cache Misses/sec
+3038
+Table Opens/sec
+3040
+Log Bytes Write/sec
+3042
+Log Buffer Bytes Used
+3044
+Log Buffer Bytes Free
+3046
+Log Threads Waiting
+3048
+Log Checkpoint Depth
+3050
+Log Generation Checkpoint Depth
+3052
+User Read Only Transaction Commits to Level 0/sec
+3054
+User Read/Write Transaction Commits to Level 0/sec
+3056
+User Transaction Commits to Level 0/sec
+3058
+User Read Only Transaction Rollbacks to Level 0/sec
+3060
+User Read/Write Transaction Rollbacks to Level 0/sec
+3062
+User Transaction Rollbacks to Level 0/sec
+3064
+System Read Only Transaction Commits to Level 0/sec
+3066
+System Read/Write Transaction Commits to Level 0/sec
+3068
+System Transaction Commits to Level 0/sec
+3070
+System Read Only Transaction Rollbacks to Level 0/sec
+3072
+System Read/Write Transaction Rollbacks to Level 0/sec
+3074
+System Transaction Rollbacks to Level 0/sec
+3076
+Database Page Allocation File Extension Async Consumed/sec
+3078
+Database Page Allocation File Extension Stalls/sec
+3080
+Log Records/sec
+3082
+Log Buffer Capacity Flushes/sec
+3084
+Log Buffer Commit Flushes/sec
+3086
+Log Buffer Flushes/sec
+3088
+Log Writes/sec
+3090
+Log Record Stalls/sec
+3092
+Version buckets allocated
+3094
+Version buckets allocated for deletes
+3096
+VER Bucket Allocations Wait For Version Cleanup/sec
+3098
+Version store average RCE bookmark length
+3100
+Version store unnecessary calls/sec
+3102
+Version store cleanup tasks asynchronously dispatched/sec
+3104
+Version store cleanup tasks synchronously dispatched/sec
+3106
+Version store cleanup tasks discarded/sec
+3108
+Version store cleanup tasks failures/sec
+3110
+Record Inserts/sec
+3112
+Record Deletes/sec
+3114
+Record Replaces/sec
+3116
+Record Unnecessary Replaces/sec
+3118
+Record Redundant Replaces/sec
+3120
+Record Escrow-Updates/sec
+3122
+Secondary Index Inserts/sec
+3124
+Secondary Index Deletes/sec
+3126
+False Index Column Updates/sec
+3128
+False Tuple Index Column Updates/sec
+3130
+Record Intrinsic Long-Values Updated/sec
+3132
+Record Separated Long-Values Added/sec
+3134
+Record Separated Long-Values Forced/sec
+3136
+Record Separated Long-Values All Forced/sec
+3138
+Record Separated Long-Values Reference All/sec
+3140
+Record Separated Long-Values Dereference All/sec
+3142
+Separated Long-Value Seeks/sec
+3144
+Separated Long-Value Retrieves/sec
+3146
+Separated Long-Value Creates/sec
+3148
+Separated Long-Value Updates/sec
+3150
+Separated Long-Value Deletes/sec
+3152
+Separated Long-Value Copies/sec
+3154
+Separated Long-Value Chunk Seeks/sec
+3156
+Separated Long-Value Chunk Retrieves/sec
+3158
+Separated Long-Value Chunk Appends/sec
+3160
+Separated Long-Value Chunk Replaces/sec
+3162
+Separated Long-Value Chunk Deletes/sec
+3164
+Separated Long-Value Chunk Copies/sec
+3166
+B+ Tree Append Splits/sec
+3168
+B+ Tree Right Splits/sec
+3170
+B+ Tree Right Hotpoint Splits/sec
+3172
+B+ Tree Vertical Splits/sec
+3174
+B+ Tree Splits/sec
+3176
+B+ Tree Empty Page Merges/sec
+3178
+B+ Tree Right Merges/sec
+3180
+B+ Tree Partial Merges/sec
+3182
+B+ Tree Merges/sec
+3184
+B+ Tree Failed Simple Page Cleanup Attempts/sec
+3186
+B+ Tree Seek Short Circuits/sec
+3188
+B+ Tree Unnecessary Sibling Latches/sec
+3190
+B+ Tree Move Nexts/sec
+3192
+B+ Tree Move Nexts (Non-Visible Nodes Skipped)/sec
+3194
+B+ Tree Move Prevs/sec
+3196
+B+ Tree Move Prevs (Non-Visible Nodes Skipped)/sec
+3198
+B+ Tree Seeks/sec
+3200
+B+ Tree Inserts/sec
+3202
+B+ Tree Replaces/sec
+3204
+B+ Tree Flag Deletes/sec
+3206
+B+ Tree Deletes/sec
+3208
+B+ Tree Appends/sec
+3210
+B+ Tree Creates/sec
+3212
+B+ Tree Creates (Total)
+3214
+B+ Tree Destroys/sec
+3216
+B+ Tree Destroys (Total)
+3218
+Database Cache % Hit
+3220
+No name
+3222
+Database Cache % Clean
+3224
+No name
+3226
+Database Pages Read Async/sec
+3228
+Database Pages Read Sync/sec
+3230
+Database Pages Written/sec
+3232
+Database Pages Transferred/sec
+3234
+Database Page Latches/sec
+3236
+Database Page Fast Latches/sec
+3238
+Database Page Bad Latch Hints/sec
+3240
+Database Cache % Fast Latch
+3242
+No name
+3244
+Database Page Latch Conflicts/sec
+3246
+Database Page Latch Stalls/sec
+3248
+Database Cache % Available
+3250
+No name
+3252
+Database Page Faults/sec
+3254
+Database Page Evictions/sec
+3256
+Database Page Fault Stalls/sec
+3258
+Database Cache Size (MB)
+3260
+Database Cache Size
+3262
+Database Cache Size Min
+3264
+Database Cache Size Max
+3266
+Database Cache % Available Min
+3268
+No name
+3270
+Database Cache % Available Max
+3272
+No name
+3274
+Database Pages Preread/sec
+3276
+Database Cached Pages Preread/sec
+3278
+Database Pages Preread Untouched/sec
+3280
+Database Pages Versioned / sec
+3282
+Database Cache % Versioned
+3284
+No name
+3286
+Database Pages Ordinarily Written/sec
+3288
+Database Pages Anomalously Written/sec
+3290
+Database Pages Opportunely Written/sec
+3292
+Database Pages Repeatedly Written/sec
+3294
+Database Pages Idly Written/sec
+3296
+Database Pages Coalesced Written/sec
+3298
+Database Pages Coalesced Read/sec
+3300
+Database Page History Records
+3302
+Database Page History % Hit
+3304
+No name
+3306
+Database Page Scans/sec
+3308
+Database Page Scans Out-of-order/sec
+3310
+No name
+3312
+Streaming Backup Pages Read/sec
+3314
+Online Defrag Pages Referenced/sec
+3316
+Online Defrag Pages Read/sec
+3318
+Online Defrag Pages Preread/sec
+3320
+Online Defrag Pages Dirtied/sec
+3322
+Online Defrag Pages Re-Dirtied/sec
+3324
+Online Defrag Log Records/sec
+3326
+Online Defrag Average Log Bytes
+3328
+No name
+3330
+Database Tasks Pages Referenced/sec
+3332
+Database Tasks Pages Read/sec
+3334
+Database Tasks Pages Preread/sec
+3336
+Database Tasks Pages Dirtied/sec
+3338
+Database Tasks Pages Re-Dirtied/sec
+3340
+Database Tasks Log Records/sec
+3342
+Database Tasks Average Log Bytes
+3344
+No name
+3346
+I/O Database Reads/sec
+3348
+I/O Database Reads Average Latency
+3350
+No name
+3352
+I/O Database Reads Average Bytes
+3354
+No name
+3356
+I/O Database Reads In Heap
+3358
+I/O Database Reads Async Pending
+3360
+I/O Database Reads Abnormal Latency/sec
+3362
+I/O Log Reads/sec
+3364
+I/O Log Reads Average Latency
+3366
+No name
+3368
+I/O Log Reads Average Bytes
+3370
+No name
+3372
+I/O Log Reads In Heap
+3374
+I/O Log Reads Async Pending
+3376
+I/O Log Reads Abnormal Latency/sec
+3378
+I/O Database Writes/sec
+3380
+I/O Database Writes Average Latency
+3382
+No name
+3384
+I/O Database Writes Average Bytes
+3386
+No name
+3388
+I/O Database Writes In Heap
+3390
+I/O Database Writes Async Pending
+3392
+I/O Database Writes Abnormal Latency/sec
+3394
+I/O Log Writes/sec
+3396
+I/O Log Writes Average Latency
+3398
+No name
+3400
+I/O Log Writes Average Bytes
+3402
+No name
+3404
+I/O Log Writes In Heap
+3406
+I/O Log Writes Async Pending
+3408
+I/O Log Writes Abnormal Latency/sec
+3410
+SLV File Table Inserts/sec
+3412
+SLV File Table Cleans/sec
+3414
+SLV File Table Deletes/sec
+3416
+SLV File Table Entries
+3418
+Threads Blocked/sec
+3420
+Threads Blocked
+3422
+Database ==> TableClasses
+3424
+Record Inserts/sec
+3426
+Record Deletes/sec
+3428
+Record Replaces/sec
+3430
+Record Unnecessary Replaces/sec
+3432
+Record Redundant Replaces/sec
+3434
+Record Escrow-Updates/sec
+3436
+Secondary Index Inserts/sec
+3438
+Secondary Index Deletes/sec
+3440
+False Index Column Updates/sec
+3442
+False Tuple Index Column Updates/sec
+3444
+Record Intrinsic Long-Values Updated/sec
+3446
+Record Separated Long-Values Added/sec
+3448
+Record Separated Long-Values Forced/sec
+3450
+Record Separated Long-Values All Forced/sec
+3452
+Record Separated Long-Values Reference All/sec
+3454
+Record Separated Long-Values Dereference All/sec
+3456
+Separated Long-Value Seeks/sec
+3458
+Separated Long-Value Retrieves/sec
+3460
+Separated Long-Value Creates/sec
+3462
+Separated Long-Value Updates/sec
+3464
+Separated Long-Value Deletes/sec
+3466
+Separated Long-Value Copies/sec
+3468
+Separated Long-Value Chunk Seeks/sec
+3470
+Separated Long-Value Chunk Retrieves/sec
+3472
+Separated Long-Value Chunk Appends/sec
+3474
+Separated Long-Value Chunk Replaces/sec
+3476
+Separated Long-Value Chunk Deletes/sec
+3478
+Separated Long-Value Chunk Copies/sec
+3480
+B+ Tree Append Splits/sec
+3482
+B+ Tree Right Splits/sec
+3484
+B+ Tree Right Hotpoint Splits/sec
+3486
+B+ Tree Vertical Splits/sec
+3488
+B+ Tree Splits/sec
+3490
+B+ Tree Empty Page Merges/sec
+3492
+B+ Tree Right Merges/sec
+3494
+B+ Tree Partial Merges/sec
+3496
+B+ Tree Merges/sec
+3498
+B+ Tree Failed Simple Page Cleanup Attempts/sec
+3500
+B+ Tree Seek Short Circuits/sec
+3502
+B+ Tree Unnecessary Sibling Latches/sec
+3504
+B+ Tree Move Nexts/sec
+3506
+B+ Tree Move Nexts (Non-Visible Nodes Skipped)/sec
+3508
+B+ Tree Move Prevs/sec
+3510
+B+ Tree Move Prevs (Non-Visible Nodes Skipped)/sec
+3512
+B+ Tree Seeks/sec
+3514
+B+ Tree Inserts/sec
+3516
+B+ Tree Replaces/sec
+3518
+B+ Tree Flag Deletes/sec
+3520
+B+ Tree Deletes/sec
+3522
+B+ Tree Appends/sec
+3524
+B+ Tree Creates/sec
+3526
+B+ Tree Creates (Total)
+3528
+B+ Tree Destroys/sec
+3530
+B+ Tree Destroys (Total)
+3532
+Database Cache Size (MB)
+3534
+Database Pages Read Async/sec
+3536
+Database Pages Read Sync/sec
+3538
+Database Pages Written/sec
+3540
+Database Pages Transferred/sec
+3542
+Database Pages Preread/sec
+3544
+Database Cached Pages Preread/sec
+3546
+Database Pages Preread Untouched/sec
+3548
+Database Pages Versioned / sec
+3550
+Database Pages Ordinarily Written/sec
+3552
+Database Pages Anomalously Written/sec
+3554
+Database Pages Opportunely Written/sec
+3556
+Database Pages Repeatedly Written/sec
+3558
+Database Pages Idly Written/sec
+3560
+Database Pages Coalesced Written/sec
+3562
+Database Pages Coalesced Read/sec
+3564
+Database ==> Instances
+3566
+Pages Converted/sec
+3568
+Pages Converted
+3570
+Records Converted/sec
+3572
+Records Converted
+3574
+FCB Asynchronous Scan/sec
+3576
+FCB Asynchronous Purge/sec
+3578
+FCB Asynchronous Threshold-Scan/sec
+3580
+FCB Asynchronous Threshold-Purge/sec
+3582
+FCB Asynchronous Purge Conflicts/sec
+3584
+FCB Synchronous Purge/sec
+3586
+FCB Synchronous Purge Stalls/sec
+3588
+FCB Allocations Wait For Version Cleanup/sec
+3590
+FCB Purge On Cursor Close/sec
+3592
+FCB Cache % Hit
+3594
+No name
+3596
+FCB Cache Stalls/sec
+3598
+FCB Cache Maximum
+3600
+FCB Cache Preferred
+3602
+FCB Cache Allocated
+3604
+FCB Cache Available
+3606
+Sessions In Use
+3608
+Sessions % Used
+3610
+No name
+3612
+Table Open Cache % Hit
+3614
+No name
+3616
+Table Open Cache Hits/sec
+3618
+Table Open Cache Misses/sec
+3620
+Table Opens/sec
+3622
+Log Bytes Write/sec
+3624
+Log Buffer Size
+3626
+Log Buffer Bytes Used
+3628
+Log Buffer Bytes Free
+3630
+Log Threads Waiting
+3632
+Log File Size
+3634
+Log Checkpoint Depth
+3636
+Log Generation Checkpoint Depth
+3638
+User Read Only Transaction Commits to Level 0/sec
+3640
+User Read/Write Transaction Commits to Level 0/sec
+3642
+User Transaction Commits to Level 0/sec
+3644
+User Read Only Transaction Rollbacks to Level 0/sec
+3646
+User Read/Write Transaction Rollbacks to Level 0/sec
+3648
+User Transaction Rollbacks to Level 0/sec
+3650
+System Read Only Transaction Commits to Level 0/sec
+3652
+System Read/Write Transaction Commits to Level 0/sec
+3654
+System Transaction Commits to Level 0/sec
+3656
+System Read Only Transaction Rollbacks to Level 0/sec
+3658
+System Read/Write Transaction Rollbacks to Level 0/sec
+3660
+System Transaction Rollbacks to Level 0/sec
+3662
+Database Page Allocation File Extension Async Consumed/sec
+3664
+Database Page Allocation File Extension Stalls/sec
+3666
+Log Records/sec
+3668
+Log Buffer Capacity Flushes/sec
+3670
+Log Buffer Commit Flushes/sec
+3672
+Log Buffer Flushes/sec
+3674
+Log Writes/sec
+3676
+Log Record Stalls/sec
+3678
+Version buckets allocated
+3680
+Version buckets allocated for deletes
+3682
+VER Bucket Allocations Wait For Version Cleanup/sec
+3684
+Version store average RCE bookmark length
+3686
+Version store unnecessary calls/sec
+3688
+Version store cleanup tasks asynchronously dispatched/sec
+3690
+Version store cleanup tasks synchronously dispatched/sec
+3692
+Version store cleanup tasks discarded/sec
+3694
+Version store cleanup tasks failures/sec
+3696
+Record Inserts/sec
+3698
+Record Deletes/sec
+3700
+Record Replaces/sec
+3702
+Record Unnecessary Replaces/sec
+3704
+Record Redundant Replaces/sec
+3706
+Record Escrow-Updates/sec
+3708
+Secondary Index Inserts/sec
+3710
+Secondary Index Deletes/sec
+3712
+False Index Column Updates/sec
+3714
+False Tuple Index Column Updates/sec
+3716
+Record Intrinsic Long-Values Updated/sec
+3718
+Record Separated Long-Values Added/sec
+3720
+Record Separated Long-Values Forced/sec
+3722
+Record Separated Long-Values All Forced/sec
+3724
+Record Separated Long-Values Reference All/sec
+3726
+Record Separated Long-Values Dereference All/sec
+3728
+Separated Long-Value Seeks/sec
+3730
+Separated Long-Value Retrieves/sec
+3732
+Separated Long-Value Creates/sec
+3734
+Separated Long-Value Updates/sec
+3736
+Separated Long-Value Deletes/sec
+3738
+Separated Long-Value Copies/sec
+3740
+Separated Long-Value Chunk Seeks/sec
+3742
+Separated Long-Value Chunk Retrieves/sec
+3744
+Separated Long-Value Chunk Appends/sec
+3746
+Separated Long-Value Chunk Replaces/sec
+3748
+Separated Long-Value Chunk Deletes/sec
+3750
+Separated Long-Value Chunk Copies/sec
+3752
+B+ Tree Append Splits/sec
+3754
+B+ Tree Right Splits/sec
+3756
+B+ Tree Right Hotpoint Splits/sec
+3758
+B+ Tree Vertical Splits/sec
+3760
+B+ Tree Splits/sec
+3762
+B+ Tree Empty Page Merges/sec
+3764
+B+ Tree Right Merges/sec
+3766
+B+ Tree Partial Merges/sec
+3768
+B+ Tree Merges/sec
+3770
+B+ Tree Failed Simple Page Cleanup Attempts/sec
+3772
+B+ Tree Seek Short Circuits/sec
+3774
+B+ Tree Unnecessary Sibling Latches/sec
+3776
+B+ Tree Move Nexts/sec
+3778
+B+ Tree Move Nexts (Non-Visible Nodes Skipped)/sec
+3780
+B+ Tree Move Prevs/sec
+3782
+B+ Tree Move Prevs (Non-Visible Nodes Skipped)/sec
+3784
+B+ Tree Seeks/sec
+3786
+B+ Tree Inserts/sec
+3788
+B+ Tree Replaces/sec
+3790
+B+ Tree Flag Deletes/sec
+3792
+B+ Tree Deletes/sec
+3794
+B+ Tree Appends/sec
+3796
+B+ Tree Creates/sec
+3798
+B+ Tree Creates (Total)
+3800
+B+ Tree Destroys/sec
+3802
+B+ Tree Destroys (Total)
+3804
+Database Pages Read Async/sec
+3806
+Database Pages Read Sync/sec
+3808
+Database Pages Written/sec
+3810
+Database Pages Transferred/sec
+3812
+Database Pages Preread/sec
+3814
+Database Cached Pages Preread/sec
+3816
+Database Pages Preread Untouched/sec
+3818
+Database Pages Versioned / sec
+3820
+Database Pages Ordinarily Written/sec
+3822
+Database Pages Anomalously Written/sec
+3824
+Database Pages Opportunely Written/sec
+3826
+Database Pages Repeatedly Written/sec
+3828
+Database Pages Idly Written/sec
+3830
+Database Pages Coalesced Written/sec
+3832
+Database Pages Coalesced Read/sec
+3834
+Streaming Backup Pages Read/sec
+3836
+Online Defrag Pages Referenced/sec
+3838
+Online Defrag Pages Read/sec
+3840
+Online Defrag Pages Preread/sec
+3842
+Online Defrag Pages Dirtied/sec
+3844
+Online Defrag Pages Re-Dirtied/sec
+3846
+Online Defrag Log Records/sec
+3848
+Online Defrag Average Log Bytes
+3850
+No name
+3852
+Database Tasks Pages Referenced/sec
+3854
+Database Tasks Pages Read/sec
+3856
+Database Tasks Pages Preread/sec
+3858
+Database Tasks Pages Dirtied/sec
+3860
+Database Tasks Pages Re-Dirtied/sec
+3862
+Database Tasks Log Records/sec
+3864
+Database Tasks Average Log Bytes
+3866
+No name
+3868
+I/O Database Reads/sec
+3870
+I/O Database Reads Average Latency
+3872
+No name
+3874
+I/O Database Reads Average Bytes
+3876
+No name
+3878
+I/O Database Reads In Heap
+3880
+I/O Database Reads Async Pending
+3882
+I/O Database Reads Abnormal Latency/sec
+3884
+I/O Log Reads/sec
+3886
+I/O Log Reads Average Latency
+3888
+No name
+3890
+I/O Log Reads Average Bytes
+3892
+No name
+3894
+I/O Log Reads In Heap
+3896
+I/O Log Reads Async Pending
+3898
+I/O Log Reads Abnormal Latency/sec
+3900
+I/O Database Writes/sec
+3902
+I/O Database Writes Average Latency
+3904
+No name
+3906
+I/O Database Writes Average Bytes
+3908
+No name
+3910
+I/O Database Writes In Heap
+3912
+I/O Database Writes Async Pending
+3914
+I/O Database Writes Abnormal Latency/sec
+3916
+I/O Log Writes/sec
+3918
+I/O Log Writes Average Latency
+3920
+No name
+3922
+I/O Log Writes Average Bytes
+3924
+No name
+3926
+I/O Log Writes In Heap
+3928
+I/O Log Writes Async Pending
+3930
+I/O Log Writes Abnormal Latency/sec
+3932
+Terminal Services Session
+3934
+Input WdBytes
+3936
+Input WdFrames
+3938
+Input WaitForOutBuf
+3940
+Input Frames
+3942
+Input Bytes
+3944
+Input Compressed Bytes
+3946
+Input Compress Flushes
+3948
+Input Errors
+3950
+Input Timeouts
+3952
+Input Async Frame Error
+3954
+Input Async Overrun
+3956
+Input Async Overflow
+3958
+Input Async Parity Error
+3960
+Input Transport Errors
+3962
+Output WdBytes
+3964
+Output WdFrames
+3966
+Output WaitForOutBuf
+3968
+Output Frames
+3970
+Output Bytes
+3972
+Output Compressed Bytes
+3974
+Output Compress Flushes
+3976
+Output Errors
+3978
+Output Timeouts
+3980
+Output Async Frame Error
+3982
+Output Async Overrun
+3984
+Output Async Overflow
+3986
+Output Async Parity Error
+3988
+Output Transport Errors
+3990
+Total WdBytes
+3992
+Total WdFrames
+3994
+Total WaitForOutBuf
+3996
+Total Frames
+3998
+Total Bytes
+4000
+Total Compressed Bytes
+4002
+Total Compress Flushes
+4004
+Total Errors
+4006
+Total Timeouts
+4008
+Total Async Frame Error
+4010
+Total Async Overrun
+4012
+Total Async Overflow
+4014
+Total Async Parity Error
+4016
+Total Transport Errors
+4018
+Total Protocol Cache Reads
+4020
+Total Protocol Cache Hits
+4022
+Total Protocol Cache Hit Ratio
+4024
+Protocol Bitmap Cache Reads
+4026
+Protocol Bitmap Cache Hits
+4028
+Protocol Bitmap Cache Hit Ratio
+4030
+Protocol Glyph Cache Reads
+4032
+Protocol Glyph Cache Hits
+4034
+Protocol Glyph Cache Hit Ratio
+4036
+Protocol Brush Cache Reads
+4038
+Protocol Brush Cache Hits
+4040
+Protocol Brush Cache Hit Ratio
+4042
+Protocol Save Screen Bitmap Cache Reads
+4044
+Protocol Save Screen Bitmap Cache Hits
+4046
+Protocol Save Screen Bitmap Cache Hit Ratio
+4048
+Input Compression Ratio
+4050
+Output Compression Ratio
+4052
+Total Compression Ratio
+4060
+Bulk Bytes/Sec
+4062
+Isochronous Bytes/Sec
+4064
+Interrupt Bytes/Sec
+4066
+Control Data Bytes/Sec
+4068
+Controller PCI Interrupts/Sec
+4070
+Controller WorkSignals/Sec
+4072
+% Total Bandwidth Used for Interrupt
+4074
+% Total Bandwidth Used for Iso
+4076
+USB
+4078
+Avg. Bytes/Transfer
+4080
+Iso Packet Errors/Sec
+4082
+Avg ms latency for ISO transfers
+4084
+Transfer Errors/Sec
+4086
+Host Controller Idle
+4088
+Host Controller Async Idle
+4090
+Host Controller Async Cache Flush Count
+4092
+Host Controller Perdiodic Idle
+4094
+Host Controller Periodic Cache Flush Count
+4096
+Pacer Flow
+4098
+Pacer Pipe
+4100
+Packets dropped
+4102
+Packets scheduled
+4104
+Packets transmitted
+4106
+Average packets in shaper
+4108
+Max packets in shaper
+4110
+Average packets in sequencer
+4112
+Max packets in sequencer
+4114
+Bytes scheduled
+4116
+Bytes transmitted
+4118
+Bytes transmitted/sec
+4120
+Bytes scheduled/sec
+4122
+Packets transmitted/sec
+4124
+Packets scheduled/sec
+4126
+Packets dropped/sec
+4128
+Nonconforming packets scheduled
+4130
+Nonconforming packets scheduled/sec
+4132
+Nonconforming packets transmitted
+4134
+Nonconforming packets transmitted/sec
+4136
+Maximum Packets in netcard
+4138
+Average Packets in netcard
+4140
+Out of packets
+4142
+Flows opened
+4144
+Flows closed
+4146
+Flows rejected
+4148
+Flows modified
+4150
+Flow mods rejected
+4152
+Max simultaneous flows
+4154
+Nonconforming packets scheduled
+4156
+Nonconforming packets scheduled/sec
+4158
+Nonconforming packets transmitted
+4160
+Nonconforming packets transmitted/sec
+4162
+Average packets in shaper
+4164
+Max packets in shaper
+4166
+Average packets in sequencer
+4168
+Max packets in sequencer
+4170
+Max packets in netcard
+4172
+Average packets in netcard
+4342
+.NET Memory Cache 4.0
+4344
+Cache Hits
+4346
+Cache Misses
+4348
+Cache Hit Ratio
+4350
+Cache Hit Ratio Base
+4352
+Cache Trims
+4354
+Cache Entries
+4356
+Cache Turnover Rate
+4592
+ASP.NET v4.0.30319
+4594
+ASP.NET Apps v4.0.30319
+4596
+Application Restarts
+4598
+Applications Running
+4600
+Requests Disconnected
+4602
+Request Execution Time
+4604
+Requests Rejected
+4606
+Requests Queued
+4608
+Worker Processes Running
+4610
+Worker Process Restarts
+4612
+Request Wait Time
+4614
+State Server Sessions Active
+4616
+State Server Sessions Abandoned
+4618
+State Server Sessions Timed Out
+4620
+State Server Sessions Total
+4622
+Requests Current
+4624
+Audit Success Events Raised
+4626
+Audit Failure Events Raised
+4628
+Error Events Raised
+4630
+Request Error Events Raised
+4632
+Infrastructure Error Events Raised
+4634
+Requests In Native Queue
+4636
+Anonymous Requests
+4638
+Anonymous Requests/Sec
+4640
+Cache Total Entries
+4642
+Cache Total Turnover Rate
+4644
+Cache Total Hits
+4646
+Cache Total Misses
+4648
+Cache Total Hit Ratio
+4650
+Cache Total Hit Ratio Base
+4652
+Cache API Entries
+4654
+Cache API Turnover Rate
+4656
+Cache API Hits
+4658
+Cache API Misses
+4660
+Cache API Hit Ratio
+4662
+Cache API Hit Ratio Base
+4664
+Output Cache Entries
+4666
+Output Cache Turnover Rate
+4668
+Output Cache Hits
+4670
+Output Cache Misses
+4672
+Output Cache Hit Ratio
+4674
+Output Cache Hit Ratio Base
+4676
+Compilations Total
+4678
+Debugging Requests
+4680
+Errors During Preprocessing
+4682
+Errors During Compilation
+4684
+Errors During Execution
+4686
+Errors Unhandled During Execution
+4688
+Errors Unhandled During Execution/Sec
+4690
+Errors Total
+4692
+Errors Total/Sec
+4694
+Pipeline Instance Count
+4696
+Request Bytes In Total
+4698
+Request Bytes Out Total
+4700
+Requests Executing
+4702
+Requests Failed
+4704
+Requests Not Found
+4706
+Requests Not Authorized
+4708
+Requests In Application Queue
+4710
+Requests Timed Out
+4712
+Requests Succeeded
+4714
+Requests Total
+4716
+Requests/Sec
+4718
+Sessions Active
+4720
+Sessions Abandoned
+4722
+Sessions Timed Out
+4724
+Sessions Total
+4726
+Transactions Aborted
+4728
+Transactions Committed
+4730
+Transactions Pending
+4732
+Transactions Total
+4734
+Transactions/Sec
+4736
+Session State Server connections total
+4738
+Session SQL Server connections total
+4740
+Events Raised
+4742
+Events Raised/Sec
+4744
+Application Lifetime Events
+4746
+Application Lifetime Events/Sec
+4748
+Error Events Raised
+4750
+Error Events Raised/Sec
+4752
+Request Error Events Raised
+4754
+Request Error Events Raised/Sec
+4756
+Infrastructure Error Events Raised
+4758
+Infrastructure Error Events Raised/Sec
+4760
+Request Events Raised
+4762
+Request Events Raised/Sec
+4764
+Audit Success Events Raised
+4766
+Audit Failure Events Raised
+4768
+Membership Authentication Success
+4770
+Membership Authentication Failure
+4772
+Forms Authentication Success
+4774
+Forms Authentication Failure
+4776
+Viewstate MAC Validation Failure
+4778
+Request Execution Time
+4780
+Requests Disconnected
+4782
+Requests Rejected
+4784
+Request Wait Time
+4786
+Cache % Machine Memory Limit Used
+4788
+Cache % Machine Memory Limit Used Base
+4790
+Cache % Process Memory Limit Used
+4792
+Cache % Process Memory Limit Used Base
+4794
+Cache Total Trims
+4796
+Cache API Trims
+4798
+Output Cache Trims
+4800
+% Managed Processor Time (estimated)
+4802
+% Managed Processor Time Base (estimated)
+4804
+Managed Memory Used (estimated)
+4806
+Request Bytes In Total (WebSockets)
+4808
+Request Bytes Out Total (WebSockets)
+4810
+Requests Executing (WebSockets)
+4812
+Requests Failed (WebSockets)
+4814
+Requests Succeeded (WebSockets)
+4816
+Requests Total (WebSockets)
+5444
+SMSvcHost 4.0.0.0
+5446
+Protocol Failures over net.tcp
+5448
+Protocol Failures over net.pipe
+5450
+Dispatch Failures over net.tcp
+5452
+Dispatch Failures over net.pipe
+5454
+Connections Dispatched over net.tcp
+5456
+Connections Dispatched over net.pipe
+5458
+Connections Accepted over net.tcp
+5460
+Connections Accepted over net.pipe
+5462
+Registrations Active for net.tcp
+5464
+Registrations Active for net.pipe
+5466
+Uris Registered for net.tcp
+5468
+Uris Registered for net.pipe
+5470
+Uris Unregistered for net.tcp
+5472
+Uris Unregistered for net.pipe
+5474
+MSDTC Bridge 4.0.0.0
+5476
+Message send failures/sec
+5478
+Prepare retry count/sec
+5480
+Commit retry count/sec
+5482
+Prepared retry count/sec
+5484
+Replay retry count/sec
+5486
+Faults received count/sec
+5488
+Faults sent count/sec
+5490
+Average participant prepare response time
+5492
+Average participant prepare response time Base
+5494
+Average participant commit response time
+5496
+Average participant commit response time Base
+5498
+WF (System.Workflow) 4.0.0.0
+5500
+Workflows Created
+5502
+Workflows Created/sec
+5504
+Workflows Unloaded
+5506
+Workflows Unloaded/sec
+5508
+Workflows Loaded
+5510
+Workflows Loaded/sec
+5512
+Workflows Completed
+5514
+Workflows Completed/sec
+5516
+Workflows Suspended
+5518
+Workflows Suspended/sec
+5520
+Workflows Terminated
+5522
+Workflows Terminated/sec
+5524
+Workflows In Memory
+5526
+Workflows Aborted
+5528
+Workflows Aborted/sec
+5530
+Workflows Persisted
+5532
+Workflows Persisted/sec
+5534
+Workflows Executing
+5536
+Workflows Idle/sec
+5538
+Workflows Runnable
+5540
+Workflows Pending
+5542
+.NET CLR Networking 4.0.0.0
+5544
+Connections Established
+5546
+Bytes Received
+5548
+Bytes Sent
+5550
+Datagrams Received
+5552
+Datagrams Sent
+5554
+HttpWebRequests Created/Sec
+5556
+HttpWebRequests Average Lifetime
+5558
+HttpWebRequests Average Lifetime Base
+5560
+HttpWebRequests Queued/Sec
+5562
+HttpWebRequests Average Queue Time
+5564
+HttpWebRequests Average Queue Time Base
+5566
+HttpWebRequests Aborted/Sec
+5568
+HttpWebRequests Failed/Sec
+5598
+Windows Workflow Foundation
+5600
+Workflows Created
+5602
+Workflows Created/sec
+5604
+Workflows Unloaded
+5606
+Workflows Unloaded/sec
+5608
+Workflows Loaded
+5610
+Workflows Loaded/sec
+5612
+Workflows Completed
+5614
+Workflows Completed/sec
+5616
+Workflows Suspended
+5618
+Workflows Suspended/sec
+5620
+Workflows Terminated
+5622
+Workflows Terminated/sec
+5624
+Workflows In Memory
+5626
+Workflows Aborted
+5628
+Workflows Aborted/sec
+5630
+Workflows Persisted
+5632
+Workflows Persisted/sec
+5634
+Workflows Executing
+5636
+Workflows Idle/sec
+5638
+Workflows Runnable
+5640
+Workflows Pending
+5642
+SMSvcHost 3.0.0.0
+5644
+Protocol Failures over net.tcp
+5646
+Protocol Failures over net.pipe
+5648
+Dispatch Failures over net.tcp
+5650
+Dispatch Failures over net.pipe
+5652
+Connections Dispatched over net.tcp
+5654
+Connections Dispatched over net.pipe
+5656
+Connections Accepted over net.tcp
+5658
+Connections Accepted over net.pipe
+5660
+Registrations Active for net.tcp
+5662
+Registrations Active for net.pipe
+5664
+Uris Registered for net.tcp
+5666
+Uris Registered for net.pipe
+5668
+Uris Unregistered for net.tcp
+5670
+Uris Unregistered for net.pipe
+5672
+ServiceModelService 3.0.0.0
+5674
+Calls
+5676
+Calls Per Second
+5678
+Calls Outstanding
+5680
+Calls Failed
+5682
+Calls Failed Per Second
+5684
+Calls Faulted
+5686
+Calls Faulted Per Second
+5688
+Calls Duration
+5690
+Calls Duration Base
+5692
+Transactions Flowed
+5694
+Transactions Flowed Per Second
+5696
+Transacted Operations Committed
+5698
+Transacted Operations Committed Per Second
+5700
+Transacted Operations Aborted
+5702
+Transacted Operations Aborted Per Second
+5704
+Transacted Operations In Doubt
+5706
+Transacted Operations In Doubt Per Second
+5708
+Security Validation and Authentication Failures
+5710
+Security Validation and Authentication Failures Per Second
+5712
+Security Calls Not Authorized
+5714
+Security Calls Not Authorized Per Second
+5716
+Instances
+5718
+Instances Created Per Second
+5720
+Reliable Messaging Sessions Faulted
+5722
+Reliable Messaging Sessions Faulted Per Second
+5724
+Reliable Messaging Messages Dropped
+5726
+Reliable Messaging Messages Dropped Per Second
+5728
+Queued Poison Messages
+5730
+Queued Poison Messages Per Second
+5732
+Queued Messages Rejected
+5734
+Queued Messages Rejected Per Second
+5736
+Queued Messages Dropped
+5738
+Queued Messages Dropped Per Second
+5740
+ServiceModelEndpoint 3.0.0.0
+5742
+Calls
+5744
+Calls Per Second
+5746
+Calls Outstanding
+5748
+Calls Failed
+5750
+Calls Failed Per Second
+5752
+Calls Faulted
+5754
+Calls Faulted Per Second
+5756
+Calls Duration
+5758
+Calls Duration Base
+5760
+Transactions Flowed
+5762
+Transactions Flowed Per Second
+5764
+Security Validation and Authentication Failures
+5766
+Security Validation and Authentication Failures Per Second
+5768
+Security Calls Not Authorized
+5770
+Security Calls Not Authorized Per Second
+5772
+Reliable Messaging Sessions Faulted
+5774
+Reliable Messaging Sessions Faulted Per Second
+5776
+Reliable Messaging Messages Dropped
+5778
+Reliable Messaging Messages Dropped Per Second
+5780
+ServiceModelOperation 3.0.0.0
+5782
+Calls
+5784
+Calls Per Second
+5786
+Calls Outstanding
+5788
+Calls Failed
+5790
+Call Failed Per Second
+5792
+Calls Faulted
+5794
+Calls Faulted Per Second
+5796
+Calls Duration
+5798
+Calls Duration Base
+5800
+Transactions Flowed
+5802
+Transactions Flowed Per Second
+5804
+Security Validation and Authentication Failures
+5806
+Security Validation and Authentication Failures Per Second
+5808
+Security Calls Not Authorized
+5810
+Security Calls Not Authorized Per Second
+5812
+MSDTC Bridge 3.0.0.0
+5814
+Message send failures/sec
+5816
+Prepare retry count/sec
+5818
+Commit retry count/sec
+5820
+Prepared retry count/sec
+5822
+Replay retry count/sec
+5824
+Faults received count/sec
+5826
+Faults sent count/sec
+5828
+Average participant prepare response time
+5830
+Average participant prepare response time Base
+5832
+Average participant commit response time
+5834
+Average participant commit response time Base
+11160
+NTDS
+11252
+DirectoryServices
+11254
+DRA Inbound Properties Total/sec
+11256
+AB Browses/sec
+11258
+DRA Inbound Objects Applied/sec
+11260
+DS Threads in Use
+11262
+AB Client Sessions
+11264
+DRA Pending Replication Synchronizations
+11266
+DRA Inbound Object Updates Remaining in Packet
+11268
+DS Security Descriptor sub-operations/sec
+11270
+DS Security Descriptor Propagations Events
+11272
+LDAP Client Sessions
+11274
+LDAP Active Threads
+11276
+LDAP Writes/sec
+11278
+LDAP Searches/sec
+11280
+DRA Outbound Objects/sec
+11282
+DRA Outbound Properties/sec
+11284
+DRA Inbound Values Total/sec
+11286
+DRA Sync Requests Made
+11288
+DRA Sync Requests Successful
+11290
+DRA Sync Failures on Schema Mismatch
+11292
+DRA Inbound Objects/sec
+11294
+DRA Inbound Properties Applied/sec
+11296
+DRA Inbound Properties Filtered/sec
+11298
+DS Monitor List Size
+11300
+DS Notify Queue Size
+11302
+LDAP UDP operations/sec
+11304
+DS Search sub-operations/sec
+11306
+DS Name Cache hit rate
+11308
+DS Name Cache reads
+11310
+DRA Highest USN Issued (Low part)
+11312
+DRA Highest USN Issued (High part)
+11314
+DRA Highest USN Committed (Low part)
+11316
+DRA Highest USN Committed (High part)
+11318
+DS % Writes from SAM
+11320
+Total Writes 1
+11322
+DS % Writes from DRA
+11324
+Total Writes 2
+11326
+DS % Writes from LDAP
+11328
+Total Writes 3
+11330
+DS % Writes from LSA
+11332
+Total Writes 4
+11334
+DS % Writes from KCC
+11336
+Total Writes 6
+11338
+DS % Writes from NSPI
+11340
+Total Writes 7
+11342
+DS % Writes Other
+11344
+Total Writes 8
+11346
+DS Directory Writes/sec
+11348
+DS % Searches from SAM
+11350
+Total Searches 1
+11352
+DS % Searches from DRA
+11354
+Total Searches 2
+11356
+DS % Searches from LDAP
+11358
+Total Searches 3
+11360
+DS % Searches from LSA
+11362
+Total Searches 4
+11364
+DS % Searches from KCC
+11366
+Total Searches 6
+11368
+DS % Searches from NSPI
+11370
+Total Searches 7
+11372
+DS % Searches Other
+11374
+Total Searches 8
+11376
+DS Directory Searches/sec
+11378
+DS % Reads from SAM
+11380
+Total Reads 1
+11382
+DS % Reads from DRA
+11384
+Total Reads 2
+11386
+DRA Inbound Values (DNs only)/sec
+11388
+DRA Inbound Objects Filtered/sec
+11390
+DS % Reads from LSA
+11392
+Total Reads 4
+11394
+DS % Reads from KCC
+11396
+Total Reads 6
+11398
+DS % Reads from NSPI
+11400
+Total Reads 7
+11402
+DS % Reads Other
+11404
+Total Reads 8
+11406
+DS Directory Reads/sec
+11408
+LDAP Successful Binds/sec
+11410
+LDAP Bind Time
+11412
+SAM Successful Computer Creations/sec: Includes all requests
+11414
+SAM Machine Creation Attempts/sec
+11416
+SAM Successful User Creations/sec
+11418
+SAM User Creation Attempts/sec
+11420
+SAM Password Changes/sec
+11422
+SAM Membership Changes/sec
+11424
+SAM Display Information Queries/sec
+11426
+SAM Enumerations/sec
+11428
+SAM Transitive Membership Evaluations/sec
+11430
+SAM Non-Transitive Membership Evaluations/sec
+11432
+SAM Domain Local Group Membership Evaluations/sec
+11434
+SAM Universal Group Membership Evaluations/sec
+11436
+SAM Global Group Membership Evaluations/sec
+11438
+SAM GC Evaluations/sec
+11440
+DRA Inbound Full Sync Objects Remaining
+11442
+DRA Inbound Bytes Total/sec
+11444
+DRA Inbound Bytes Not Compressed (Within Site)/sec
+11446
+DRA Inbound Bytes Compressed (Between Sites, Before Compression)/sec
+11448
+DRA Inbound Bytes Compressed (Between Sites, After Compression)/sec
+11450
+DRA Outbound Bytes Total/sec
+11452
+DRA Outbound Bytes Not Compressed (Within Site)/sec
+11454
+DRA Outbound Bytes Compressed (Between Sites, Before Compression)/sec
+11456
+DRA Outbound Bytes Compressed (Between Sites, After Compression)/sec
+11458
+DS Client Binds/sec
+11460
+DS Server Binds/sec
+11462
+DS Client Name Translations/sec
+11464
+DS Server Name Translations/sec
+11466
+DS Security Descriptor Propagator Runtime Queue
+11468
+DS Security Descriptor Propagator Average Exclusion Time
+11470
+DRA Outbound Objects Filtered/sec
+11472
+DRA Outbound Values Total/sec
+11474
+DRA Outbound Values (DNs only)/sec
+11476
+AB ANR/sec
+11478
+AB Property Reads/sec
+11480
+AB Searches/sec
+11482
+AB Matches/sec
+11484
+AB Proxy Lookups/sec
+11486
+ATQ Threads Total
+11488
+ATQ Threads LDAP
+11490
+ATQ Threads Other
+11492
+DRA Inbound Bytes Total Since Boot
+11494
+DRA Inbound Bytes Not Compressed (Within Site) Since Boot
+11496
+DRA Inbound Bytes Compressed (Between Sites, Before Compression) Since Boot
+11498
+DRA Inbound Bytes Compressed (Between Sites, After Compression) Since Boot
+11500
+DRA Outbound Bytes Total Since Boot
+11502
+DRA Outbound Bytes Not Compressed (Within Site) Since Boot
+11504
+DRA Outbound Bytes Compressed (Between Sites, Before Compression) Since Boot
+11506
+DRA Outbound Bytes Compressed (Between Sites, After Compression) Since Boot
+11508
+LDAP New Connections/sec
+11510
+LDAP Closed Connections/sec
+11512
+LDAP New SSL Connections/sec
+11514
+DRA Pending Replication Operations
+11516
+DRA Threads Getting NC Changes
+11518
+DRA Threads Getting NC Changes Holding Semaphore
+11520
+DRA Inbound Link Value Updates Remaining in Packet
+11522
+DRA Inbound Total Updates Remaining in Packet
+11524
+DS % Writes from NTDSAPI
+11526
+Total Writes 9
+11528
+DS % Searches from NTDSAPI
+11530
+Total Searches 9
+11532
+DS % Reads from NTDSAPI
+11534
+Total Reads 9
+11536
+SAM Account Group Evaluation Latency
+11538
+SAM Resource Group Evaluation Latency
+11540
+ATQ Outstanding Queued Requests
+11542
+ATQ Request Latency
+11544
+ATQ Estimated Queue Delay
+11546
+Tombstones Garbage Collected/sec
+11548
+Phantoms Cleaned/sec
+11550
+Link Values Cleaned/sec
+11552
+Tombstones Visited/sec
+11554
+Phantoms Visited/sec
+11556
+NTLM Binds/sec
+11558
+Negotiated Binds/sec
+11560
+Digest Binds/sec
+11562
+Simple Binds/sec
+11564
+External Binds/sec
+11566
+Fast Binds/sec
+11568
+Base searches/sec
+11570
+Subtree searches/sec
+11572
+Onelevel searches/sec
+11574
+Database adds/sec
+11576
+Database modifys/sec
+11578
+Database deletes/sec
+11580
+DNS
+11582
+Total Query Received
+11584
+Total Query Received/sec
+11586
+UDP Query Received
+11588
+UDP Query Received/sec
+11590
+TCP Query Received
+11592
+TCP Query Received/sec
+11594
+Total Response Sent
+11596
+Total Response Sent/sec
+11598
+UDP Response Sent
+11600
+UDP Response Sent/sec
+11602
+TCP Response Sent
+11604
+TCP Response Sent/sec
+11606
+Recursive Queries
+11608
+Recursive Queries/sec
+11610
+Recursive Send TimeOuts
+11612
+Recursive TimeOut/sec
+11614
+Recursive Query Failure
+11616
+Recursive Query Failure/sec
+11618
+Notify Sent
+11620
+Zone Transfer Request Received
+11622
+Zone Transfer Success
+11624
+Zone Transfer Failure
+11626
+AXFR Request Received
+11628
+AXFR Success Sent
+11630
+IXFR Request Received
+11632
+IXFR Success Sent
+11634
+Notify Received
+11636
+Zone Transfer SOA Request Sent
+11638
+AXFR Request Sent
+11640
+AXFR Response Received
+11642
+AXFR Success Received
+11644
+IXFR Request Sent
+11646
+IXFR Response Received
+11648
+IXFR Success Received
+11650
+IXFR UDP Success Received
+11652
+IXFR TCP Success Received
+11654
+WINS Lookup Received
+11656
+WINS Lookup Received/sec
+11658
+WINS Response Sent
+11660
+WINS Response Sent/sec
+11662
+WINS Reverse Lookup Received
+11664
+WINS Reverse Lookup Received/sec
+11666
+WINS Reverse Response Sent
+11668
+WINS Reverse Response Sent/sec
+11670
+Dynamic Update Received
+11672
+Dynamic Update Received/sec
+11674
+Dynamic Update NoOperation
+11676
+Dynamic Update NoOperation/sec
+11678
+Dynamic Update Written to Database
+11680
+Dynamic Update Written to Database/sec
+11682
+Dynamic Update Rejected
+11684
+Dynamic Update TimeOuts
+11686
+Dynamic Update Queued
+11688
+Secure Update Received
+11690
+Secure Update Received/sec
+11692
+Secure Update Failure
+11694
+Database Node Memory
+11696
+Record Flow Memory
+11698
+Caching Memory
+11700
+UDP Message Memory
+11702
+TCP Message Memory
+11704
+Nbstat Memory
+11706
+FileReplicaSet
+11708
+Bytes of Staging Generated
+11710
+Bytes of Staging Fetched
+11712
+Bytes of Staging Regenerated
+11714
+Bytes of Files Installed
+11716
+KB of Staging Space In Use
+11718
+KB of Staging Space Free
+11720
+Packets Received in Bytes
+11722
+Packets Sent in Bytes
+11724
+Fetch Blocks Sent in Bytes
+11726
+Fetch Blocks Received in Bytes
+11728
+Staging Files Generated
+11730
+Staging Files Generated with Error
+11732
+Staging Files Fetched
+11734
+Staging Files Regenerated
+11736
+Files Installed
+11738
+Files Installed with Error
+11740
+Change Orders Issued
+11742
+Change Orders Retired
+11744
+Change Orders Aborted
+11746
+Change Orders Retried
+11748
+Change Orders Retried at Generate
+11750
+Change Orders Retried at Fetch
+11752
+Change Orders Retried at Install
+11754
+Change Orders Retried at Rename
+11756
+Change Orders Morphed
+11758
+Change Orders Propagated
+11760
+Change Orders Received
+11762
+Change Orders Sent
+11764
+Change Orders Evaporated
+11766
+Local Change Orders Issued
+11768
+Local Change Orders Retired
+11770
+Local Change Orders Aborted
+11772
+Local Change Orders Retried
+11774
+Local Change Orders Retried at Generate
+11776
+Local Change Orders Retried at Fetch
+11778
+Local Change Orders Retried at Install
+11780
+Local Change Orders Retried at Rename
+11782
+Local Change Orders Morphed
+11784
+Local Change Orders Propagated
+11786
+Local Change Orders Sent
+11788
+Local Change Orders Sent At Join
+11790
+Remote Change Orders Issued
+11792
+Remote Change Orders Retired
+11794
+Remote Change Orders Aborted
+11796
+Remote Change Orders Retried
+11798
+Remote Change Orders Retried at Generate
+11800
+Remote Change Orders Retried at Fetch
+11802
+Remote Change Orders Retried at Install
+11804
+Remote Change Orders Retried at Rename
+11806
+Remote Change Orders Morphed
+11808
+Remote Change Orders Propagated
+11810
+Remote Change Orders Sent
+11812
+Remote Change Orders Received
+11814
+Inbound Change Orders Dampened
+11816
+Outbound Change Orders Dampened
+11818
+Usn Reads
+11820
+Usn Records Examined
+11822
+Usn Records Accepted
+11824
+Usn Records Rejected
+11826
+Packets Received
+11828
+Packets Received in Error
+11830
+Packets Sent
+11832
+Packets Sent in Error
+11834
+Communication Timeouts
+11836
+Fetch Requests Sent
+11838
+Fetch Requests Received
+11840
+Fetch Blocks Sent
+11842
+Fetch Blocks Received
+11844
+Join Notifications Sent
+11846
+Join Notifications Received
+11848
+Joins
+11850
+Unjoins
+11852
+Bindings
+11854
+Bindings in Error
+11856
+Authentications
+11858
+Authentications in Error
+11860
+DS Polls
+11862
+DS Polls without Changes
+11864
+DS Polls with Changes
+11866
+DS Searches
+11868
+DS Searches in Error
+11870
+DS Objects
+11872
+DS Objects in Error
+11874
+DS Bindings
+11876
+DS Bindings in Error
+11878
+Replica Sets Created
+11880
+Replica Sets Deleted
+11882
+Replica Sets Removed
+11884
+Replica Sets Started
+11886
+Threads started
+11888
+Threads exited
+11890
+FileReplicaConn
+11892
+Packets Sent in Bytes
+11894
+Fetch Blocks Sent in Bytes
+11896
+Fetch Blocks Received in Bytes
+11898
+Local Change Orders Sent
+11900
+Local Change Orders Sent At Join
+11902
+Remote Change Orders Sent
+11904
+Remote Change Orders Received
+11906
+Inbound Change Orders Dampened
+11908
+Outbound Change Orders Dampened
+11910
+Packets Sent
+11912
+Packets Sent in Error
+11914
+Communication Timeouts
+11916
+Fetch Requests Sent
+11918
+Fetch Requests Received
+11920
+Fetch Blocks Sent
+11922
+Fetch Blocks Received
+11924
+Join Notifications Sent
+11926
+Join Notifications Received
+11928
+Joins
+11930
+Unjoins
+11932
+Bindings
+11934
+Bindings in Error
+11936
+Authentications
+11938
+Authentications in Error
+12968
+MSSQL$RM:Buffer Manager
+12970
+Buffer cache hit ratio
+12972
+AWE unmap calls/sec
+12974
+Free list stalls/sec
+12976
+Page writes/sec
+12978
+Database pages
+12980
+Page life expectancy
+12982
+AWE stolen maps/sec
+12984
+AWE lookup maps/sec
+12986
+Stolen pages
+12988
+Buffer cache hit ratio base
+12990
+Free pages
+12992
+Checkpoint pages/sec
+12994
+Total pages
+12996
+Lazy writes/sec
+12998
+Page reads/sec
+13000
+Reserved pages
+13002
+Readahead pages/sec
+13004
+Target pages
+13006
+Page lookups/sec
+13008
+AWE unmap pages/sec
+13010
+AWE write maps/sec
+13012
+MSSQL$RM:Buffer Partition
+13014
+Free list empty/sec
+13016
+Free list requests/sec
+13018
+Free pages
+13020
+MSSQL$RM:Buffer Node
+13022
+Remote node page lookups/sec
+13024
+Target pages
+13026
+Free pages
+13028
+Local node page lookups/sec
+13030
+Foreign pages
+13032
+Page life expectancy
+13034
+Stolen pages
+13036
+Total pages
+13038
+Database pages
+13040
+MSSQL$RM:General Statistics
+13042
+Mars Deadlocks
+13044
+SOAP Session Initiate Requests
+13046
+Trace Event Notification Queue
+13048
+SOAP Session Terminate Requests
+13050
+User Connections
+13052
+Processes blocked
+13054
+HTTP Authenticated Requests
+13056
+Temp Tables Creation Rate
+13058
+Connection Reset/sec
+13060
+Transactions
+13062
+Active Temp Tables
+13064
+Tempdb recovery unit id
+13066
+Tempdb rowset id
+13068
+Temp Tables For Destruction
+13070
+Logical Connections
+13072
+SQL Trace IO Provider Lock Waits
+13074
+Non-atomic yield rate
+13076
+SOAP Empty Requests
+13078
+Logins/sec
+13080
+SOAP WSDL Requests
+13082
+SOAP SQL Requests
+13084
+SOAP Method Invocations
+13086
+Logouts/sec
+13088
+Event Notifications Delayed Drop
+13090
+MSSQL$RM:Locks
+13092
+Lock Requests/sec
+13094
+Lock Timeouts/sec
+13096
+Lock Timeouts (timeout > 0)/sec
+13098
+Lock Wait Time (ms)
+13100
+Number of Deadlocks/sec
+13102
+Average Wait Time Base
+13104
+Lock Waits/sec
+13106
+Average Wait Time (ms)
+13108
+MSSQL$RM:Databases
+13110
+Active Transactions
+13112
+Commit table entries
+13114
+Write Transactions/sec
+13116
+Log Flush Wait Time
+13118
+Log Cache Hit Ratio
+13120
+Log Flush Waits/sec
+13122
+Log File(s) Used Size (KB)
+13124
+Log Cache Reads/sec
+13126
+Shrink Data Movement Bytes/sec
+13128
+Log Bytes Flushed/sec
+13130
+Percent Log Used
+13132
+Bulk Copy Rows/sec
+13134
+Tracked transactions/sec
+13136
+Log Flushes/sec
+13138
+Log Growths
+13140
+Log Truncations
+13142
+DBCC Logical Scan Bytes/sec
+13144
+Log File(s) Size (KB)
+13146
+Bulk Copy Throughput/sec
+13148
+Transactions/sec
+13150
+Data File(s) Size (KB)
+13152
+Repl. Trans. Rate
+13154
+Log Shrinks
+13156
+Repl. Pending Xacts
+13158
+Backup/Restore Throughput/sec
+13160
+Log Cache Hit Ratio Base
+13162
+MSSQL$RM:Database Mirroring
+13164
+Sends/sec
+13166
+Log Compressed Bytes Sent/sec
+13168
+Send/Receive Ack Time
+13170
+Redo Queue KB
+13172
+Log Compressed Bytes Rcvd/sec
+13174
+Log Send Queue KB
+13176
+Bytes Sent/sec
+13178
+Log Bytes Sent/sec
+13180
+Log Remaining for Undo KB
+13182
+Receives/sec
+13184
+Log Harden Time (ms)
+13186
+Bytes Received/sec
+13188
+Log Send Flow Control Time (ms)
+13190
+Log Bytes Sent from Cache/sec
+13192
+Log Bytes Redone from Cache/sec
+13194
+Transaction Delay
+13196
+Mirrored Write Transactions/sec
+13198
+Log Bytes Received/sec
+13200
+Log Scanned for Undo KB
+13202
+Redo Bytes/sec
+13204
+Pages Sent/sec
+13206
+MSSQL$RM:Latches
+13208
+Latch Waits/sec
+13210
+SuperLatch Demotions/sec
+13212
+Total Latch Wait Time (ms)
+13214
+Average Latch Wait Time Base
+13216
+SuperLatch Promotions/sec
+13218
+Number of SuperLatches
+13220
+Average Latch Wait Time (ms)
+13222
+MSSQL$RM:Access Methods
+13224
+Failed leaf page cookie
+13226
+Skipped Ghosted Records/sec
+13228
+Scan Point Revalidations/sec
+13230
+Dropped rowset cleanups/sec
+13232
+LobHandle Create Count
+13234
+By-reference Lob Create Count
+13236
+Probe Scans/sec
+13238
+Count Lob Readahead
+13240
+Used tree page cookie
+13242
+Worktables From Cache Base
+13244
+Extents Allocated/sec
+13246
+Count Push Off Row
+13248
+Pages compressed/sec
+13250
+AU cleanup batches/sec
+13252
+Worktables From Cache Ratio
+13254
+Range Scans/sec
+13256
+Page compression attempts/sec
+13258
+Count Pull In Row
+13260
+Failed AU cleanup batches/sec
+13262
+FreeSpace Scans/sec
+13264
+Failed tree page cookie
+13266
+Page Deallocations/sec
+13268
+Full Scans/sec
+13270
+Table Lock Escalations/sec
+13272
+Forwarded Records/sec
+13274
+By-reference Lob Use Count
+13276
+Deferred Dropped rowsets
+13278
+Page Splits/sec
+13280
+LobSS Provider Truncation Count
+13282
+Dropped rowsets skipped/sec
+13284
+Used leaf page cookie
+13286
+FreeSpace Page Fetches/sec
+13288
+Deferred dropped AUs
+13290
+Pages Allocated/sec
+13292
+LobSS Provider Create Count
+13294
+Workfiles Created/sec
+13296
+Extent Deallocations/sec
+13298
+LobHandle Destroy Count
+13300
+Index Searches/sec
+13302
+AU cleanups/sec
+13304
+Mixed page allocations/sec
+13306
+Worktables Created/sec
+13308
+LobSS Provider Destroy Count
+13310
+MSSQL$RM:SQL Errors
+13312
+Errors/sec
+13314
+MSSQL$RM:SQL Statistics
+13316
+Failed Auto-Params/sec
+13318
+Unsafe Auto-Params/sec
+13320
+Misguided plan executions/sec
+13322
+SQL Attention rate
+13324
+Forced Parameterizations/sec
+13326
+Safe Auto-Params/sec
+13328
+Batch Requests/sec
+13330
+Guided plan executions/sec
+13332
+SQL Re-Compilations/sec
+13334
+SQL Compilations/sec
+13336
+Auto-Param Attempts/sec
+13338
+MSSQL$RM:Plan Cache
+13340
+Cache Object Counts
+13342
+Cache Hit Ratio Base
+13344
+Cache Pages
+13346
+Cache Hit Ratio
+13348
+Cache Objects in use
+13350
+MSSQL$RM:Cursor Manager by Type
+13352
+Cursor memory usage
+13354
+Cache Hit Ratio
+13356
+Cursor Cache Use Counts/sec
+13358
+Number of active cursor plans
+13360
+Cached Cursor Counts
+13362
+Cursor Requests/sec
+13364
+Cache Hit Ratio Base
+13366
+Cursor worktable usage
+13368
+Active cursors
+13370
+MSSQL$RM:Cursor Manager Total
+13372
+Cursor conversion rate
+13374
+Cursor flushes
+13376
+Async population count
+13378
+MSSQL$RM:Memory Manager
+13380
+Total Server Memory (KB)
+13382
+SQL Cache Memory (KB)
+13384
+Maximum Workspace Memory (KB)
+13386
+Lock Blocks
+13388
+Memory Grants Pending
+13390
+Lock Owner Blocks
+13392
+Lock Memory (KB)
+13394
+Target Server Memory (KB)
+13396
+Connection Memory (KB)
+13398
+Lock Blocks Allocated
+13400
+Optimizer Memory (KB)
+13402
+Lock Owner Blocks Allocated
+13404
+Memory Grants Outstanding
+13406
+Granted Workspace Memory (KB)
+13408
+MSSQL$RM:User Settable
+13410
+Query
+13412
+MSSQL$RM:Replication Agents
+13414
+Running
+13416
+MSSQL$RM:Replication Merge
+13418
+Uploaded Changes/sec
+13420
+Conflicts/sec
+13422
+Downloaded Changes/sec
+13424
+MSSQL$RM:Replication Logreader
+13426
+Logreader:Delivered Cmds/sec
+13428
+Logreader:Delivery Latency
+13430
+Logreader:Delivered Trans/sec
+13432
+MSSQL$RM:Replication Dist.
+13434
+Dist:Delivered Trans/sec
+13436
+Dist:Delivered Cmds/sec
+13438
+Dist:Delivery Latency
+13440
+MSSQL$RM:Replication Snapshot
+13442
+Snapshot:Delivered Trans/sec
+13444
+Snapshot:Delivered Cmds/sec
+13446
+MSSQL$RM:Backup Device
+13448
+Device Throughput Bytes/sec
+13450
+MSSQL$RM:Transactions
+13452
+Version Store Size (KB)
+13454
+Longest Transaction Running Time
+13456
+Transactions
+13458
+Version Store unit truncation
+13460
+NonSnapshot Version Transactions
+13462
+Snapshot Transactions
+13464
+Update Snapshot Transactions
+13466
+Version Store unit count
+13468
+Version Store unit creation
+13470
+Version Generation rate (KB/s)
+13472
+Version Cleanup rate (KB/s)
+13474
+Free Space in tempdb (KB)
+13476
+Update conflict ratio
+13478
+Update conflict ratio base
+13480
+MSSQL$RM:Broker Statistics
+13482
+Enqueued P8 Messages/sec
+13484
+Enqueued P3 Messages/sec
+13486
+Enqueued P7 Messages/sec
+13488
+Enqueued Transport Msg Frags/sec
+13490
+Enqueued P4 Messages/sec
+13492
+SQL SEND Total
+13494
+Enqueued Transport Msg Frag Tot
+13496
+SQL RECEIVEs/sec
+13498
+Enqueued Messages Total
+13500
+Enqueued P10 Messages/sec
+13502
+Corrupted Messages Total
+13504
+Dequeued TransmissionQ Msgs/sec
+13506
+Enqueued Messages/sec
+13508
+SQL SENDs/sec
+13510
+Forwarded Msg Discarded Total
+13512
+Dialog Timer Event Count
+13514
+Activation Errors Total
+13516
+Enqueued TransmissionQ Msgs/sec
+13518
+Forwarded Msg Bytes/sec
+13520
+Forwarded Pending Msg Count
+13522
+Dropped Messages Total
+13524
+SQL RECEIVE Total
+13526
+Enqueued Transport Msgs/sec
+13528
+Enqueued Local Messages Total
+13530
+Enqueued P1 Messages/sec
+13532
+Broker Transaction Rollbacks
+13534
+Enqueued P9 Messages/sec
+13536
+Forwarded Pending Msg Bytes
+13538
+Forwarded Messages Total
+13540
+Enqueued P6 Messages/sec
+13542
+Enqueued Local Messages/sec
+13544
+Forwarded Messages/sec
+13546
+Forwarded Msgs Discarded/sec
+13548
+Enqueued P5 Messages/sec
+13550
+Enqueued Transport Msgs Total
+13552
+Forwarded Msg Byte Total
+13554
+Enqueued P2 Messages/sec
+13556
+MSSQL$RM:Broker/DBM Transport
+13558
+Msg Fragment Recv Size Avg
+13560
+Current Msg Frags for Send I/O
+13562
+Message Fragment Sends/sec
+13564
+Send I/Os/sec
+13566
+Receive I/O bytes/sec
+13568
+Message Fragment P6 Sends/sec
+13570
+Message Fragment P7 Sends/sec
+13572
+Send I/O Len Avg
+13574
+Message Fragment P5 Sends/sec
+13576
+Msg Fragment Send Size Avg
+13578
+Open Connection Count
+13580
+Send I/O bytes/sec
+13582
+Message Fragment P4 Sends/sec
+13584
+Recv I/O Buffer Copies Count
+13586
+Receive I/O Len Avg
+13588
+Send I/O Len Avg Base
+13590
+Msg Fragment Send Size Avg Base
+13592
+Receive I/O Len Avg Base
+13594
+Message Fragment P1 Sends/sec
+13596
+Message Fragment P2 Sends/sec
+13598
+Pending Bytes for Recv I/O
+13600
+Message Fragment Receives/sec
+13602
+Msg Fragment Recv Size Avg Base
+13604
+Message Fragment P3 Sends/sec
+13606
+Message Fragment P9 Sends/sec
+13608
+Current Bytes for Send I/O
+13610
+Message Fragment P8 Sends/sec
+13612
+Pending Msg Frags for Recv I/O
+13614
+Receive I/Os/sec
+13616
+Message Fragment P10 Sends/sec
+13618
+Pending Bytes for Send I/O
+13620
+Recv I/O Buffer Copies bytes/sec
+13622
+Pending Msg Frags for Send I/O
+13624
+Current Bytes for Recv I/O
+13626
+MSSQL$RM:Broker Activation
+13628
+Task Limit Reached/sec
+13630
+Task Limit Reached
+13632
+Tasks Running
+13634
+Stored Procedures Invoked/sec
+13636
+Tasks Aborted/sec
+13638
+Tasks Started/sec
+13640
+MSSQL$RM:Broker TO Statistics
+13642
+Transmission Obj Writes/Sec
+13644
+Avg. Length of Batched Writes
+13646
+Avg. Time to Write Batch (ms)
+13648
+Avg. Time Between Batches Base
+13650
+Avg. Time Between Batches (ms)
+13652
+Avg. Length of Batched Writes BS
+13654
+Transmission Obj Set Dirty/Sec
+13656
+Transmission Obj Gets/Sec
+13658
+Avg. Time to Write Batch Base
+13660
+MSSQL$RM:Wait Statistics
+13662
+Workspace synchronization waits
+13664
+Non-Page latch waits
+13666
+Page latch waits
+13668
+Thread-safe memory objects waits
+13670
+Page IO latch waits
+13672
+Wait for the worker
+13674
+Log write waits
+13676
+Transaction ownership waits
+13678
+Lock waits
+13680
+Network IO waits
+13682
+Memory grant queue waits
+13684
+Log buffer waits
+13686
+MSSQL$RM:Exec Statistics
+13688
+OLEDB calls
+13690
+Distributed Query
+13692
+DTC calls
+13694
+Extended Procedures
+13696
+MSSQL$RM:CLR
+13698
+CLR Execution
+13700
+MSSQL$RM:Catalog Metadata
+13702
+Cache Entries Count
+13704
+Cache Hit Ratio
+13706
+Cache Hit Ratio Base
+13708
+Cache Entries Pinned Count
+13710
+MSSQL$RM:Trace Statistics
+13712
+Dropped events/sec
+13714
+Bytes/sec
+13716
+Events Fired/sec
+13718
+Events Filtered/sec
+13720
+MSSQL$RM:Trace Event Statistics
+13722
+Events Filtered/sec
+13724
+Events Prefiltered/sec
+13726
+CPU Ticks/sec
+13728
+Bytes/sec
+13730
+Events Fired/sec
+13732
+MSSQL$RM:Deprecated Features
+13734
+Usage
+13736
+MSSQL$RM:Workload Group Stats
+13738
+Active parallel threads
+13740
+Query optimizations/sec
+13742
+Active requests
+13744
+Queued requests
+13746
+Requests completed/sec
+13748
+CPU usage %
+13750
+Reduced memory grants/sec
+13752
+Suboptimal plans/sec
+13754
+Max request memory grant (KB)
+13756
+Blocked tasks
+13758
+CPU usage % base
+13760
+Max request cpu time (ms)
+13762
+MSSQL$RM:Resource Pool Stats
+13764
+Max memory (KB)
+13766
+Query exec memory target (KB)
+13768
+Target memory (KB)
+13770
+Memory grants/sec
+13772
+CPU usage %
+13774
+Active memory grant amount (KB)
+13776
+Active memory grants count
+13778
+CPU usage target %
+13780
+Pending memory grants count
+13782
+Cache memory target (KB)
+13784
+CPU control effect %
+13786
+Compile memory target (KB)
+13788
+CPU usage % base
+13790
+Used memory (KB)
+13792
+Memory grant timeouts/sec
+13794
+SQLAgent$RM:Jobs
+13796
+Failed jobs
+13798
+Successful jobs
+13800
+Active jobs
+13802
+Queued jobs
+13804
+Jobs activated/minute
+13806
+Successful jobs base
+13808
+Job success rate
+13810
+SQLAgent$RM:JobSteps
+13812
+Queued steps
+13814
+Active steps
+13816
+Total step retries
+13818
+SQLAgent$RM:Alerts
+13820
+Activated alerts
+13822
+Alerts activated/minute
+13824
+SQLAgent$RM:Statistics
+13826
+SQL Server restarted
+14688
+MSSQL$SAP:Buffer Manager
+14690
+Buffer cache hit ratio
+14692
+AWE unmap calls/sec
+14694
+Free list stalls/sec
+14696
+Page writes/sec
+14698
+Database pages
+14700
+Page life expectancy
+14702
+AWE stolen maps/sec
+14704
+AWE lookup maps/sec
+14706
+Stolen pages
+14708
+Buffer cache hit ratio base
+14710
+Free pages
+14712
+Checkpoint pages/sec
+14714
+Total pages
+14716
+Lazy writes/sec
+14718
+Page reads/sec
+14720
+Reserved pages
+14722
+Readahead pages/sec
+14724
+Target pages
+14726
+Page lookups/sec
+14728
+AWE unmap pages/sec
+14730
+AWE write maps/sec
+14732
+MSSQL$SAP:Buffer Partition
+14734
+Free list empty/sec
+14736
+Free list requests/sec
+14738
+Free pages
+14740
+MSSQL$SAP:Buffer Node
+14742
+Remote node page lookups/sec
+14744
+Target pages
+14746
+Free pages
+14748
+Local node page lookups/sec
+14750
+Foreign pages
+14752
+Page life expectancy
+14754
+Stolen pages
+14756
+Total pages
+14758
+Database pages
+14760
+MSSQL$SAP:General Statistics
+14762
+Mars Deadlocks
+14764
+SOAP Session Initiate Requests
+14766
+Trace Event Notification Queue
+14768
+SOAP Session Terminate Requests
+14770
+User Connections
+14772
+Processes blocked
+14774
+HTTP Authenticated Requests
+14776
+Temp Tables Creation Rate
+14778
+Connection Reset/sec
+14780
+Transactions
+14782
+Active Temp Tables
+14784
+Tempdb recovery unit id
+14786
+Tempdb rowset id
+14788
+Temp Tables For Destruction
+14790
+Logical Connections
+14792
+SQL Trace IO Provider Lock Waits
+14794
+Non-atomic yield rate
+14796
+SOAP Empty Requests
+14798
+Logins/sec
+14800
+SOAP WSDL Requests
+14802
+SOAP SQL Requests
+14804
+SOAP Method Invocations
+14806
+Logouts/sec
+14808
+Event Notifications Delayed Drop
+14810
+MSSQL$SAP:Locks
+14812
+Lock Requests/sec
+14814
+Lock Timeouts/sec
+14816
+Lock Timeouts (timeout > 0)/sec
+14818
+Lock Wait Time (ms)
+14820
+Number of Deadlocks/sec
+14822
+Average Wait Time Base
+14824
+Lock Waits/sec
+14826
+Average Wait Time (ms)
+14828
+MSSQL$SAP:Databases
+14830
+Active Transactions
+14832
+Commit table entries
+14834
+Write Transactions/sec
+14836
+Log Flush Wait Time
+14838
+Log Cache Hit Ratio
+14840
+Log Flush Waits/sec
+14842
+Log File(s) Used Size (KB)
+14844
+Log Cache Reads/sec
+14846
+Shrink Data Movement Bytes/sec
+14848
+Log Bytes Flushed/sec
+14850
+Percent Log Used
+14852
+Bulk Copy Rows/sec
+14854
+Tracked transactions/sec
+14856
+Log Flushes/sec
+14858
+Log Growths
+14860
+Log Truncations
+14862
+DBCC Logical Scan Bytes/sec
+14864
+Log File(s) Size (KB)
+14866
+Bulk Copy Throughput/sec
+14868
+Transactions/sec
+14870
+Data File(s) Size (KB)
+14872
+Repl. Trans. Rate
+14874
+Log Shrinks
+14876
+Repl. Pending Xacts
+14878
+Backup/Restore Throughput/sec
+14880
+Log Cache Hit Ratio Base
+14882
+MSSQL$SAP:Database Mirroring
+14884
+Sends/sec
+14886
+Log Compressed Bytes Sent/sec
+14888
+Send/Receive Ack Time
+14890
+Redo Queue KB
+14892
+Log Compressed Bytes Rcvd/sec
+14894
+Log Send Queue KB
+14896
+Bytes Sent/sec
+14898
+Log Bytes Sent/sec
+14900
+Log Remaining for Undo KB
+14902
+Receives/sec
+14904
+Log Harden Time (ms)
+14906
+Bytes Received/sec
+14908
+Log Send Flow Control Time (ms)
+14910
+Log Bytes Sent from Cache/sec
+14912
+Log Bytes Redone from Cache/sec
+14914
+Transaction Delay
+14916
+Mirrored Write Transactions/sec
+14918
+Log Bytes Received/sec
+14920
+Log Scanned for Undo KB
+14922
+Redo Bytes/sec
+14924
+Pages Sent/sec
+14926
+MSSQL$SAP:Latches
+14928
+Latch Waits/sec
+14930
+SuperLatch Demotions/sec
+14932
+Total Latch Wait Time (ms)
+14934
+Average Latch Wait Time Base
+14936
+SuperLatch Promotions/sec
+14938
+Number of SuperLatches
+14940
+Average Latch Wait Time (ms)
+14942
+MSSQL$SAP:Access Methods
+14944
+Failed leaf page cookie
+14946
+Skipped Ghosted Records/sec
+14948
+Scan Point Revalidations/sec
+14950
+Dropped rowset cleanups/sec
+14952
+LobHandle Create Count
+14954
+By-reference Lob Create Count
+14956
+Probe Scans/sec
+14958
+Count Lob Readahead
+14960
+Used tree page cookie
+14962
+Worktables From Cache Base
+14964
+Extents Allocated/sec
+14966
+Count Push Off Row
+14968
+Pages compressed/sec
+14970
+AU cleanup batches/sec
+14972
+Worktables From Cache Ratio
+14974
+Range Scans/sec
+14976
+Page compression attempts/sec
+14978
+Count Pull In Row
+14980
+Failed AU cleanup batches/sec
+14982
+FreeSpace Scans/sec
+14984
+Failed tree page cookie
+14986
+Page Deallocations/sec
+14988
+Full Scans/sec
+14990
+Table Lock Escalations/sec
+14992
+Forwarded Records/sec
+14994
+By-reference Lob Use Count
+14996
+Deferred Dropped rowsets
+14998
+Page Splits/sec
+15000
+LobSS Provider Truncation Count
+15002
+Dropped rowsets skipped/sec
+15004
+Used leaf page cookie
+15006
+FreeSpace Page Fetches/sec
+15008
+Deferred dropped AUs
+15010
+Pages Allocated/sec
+15012
+LobSS Provider Create Count
+15014
+Workfiles Created/sec
+15016
+Extent Deallocations/sec
+15018
+LobHandle Destroy Count
+15020
+Index Searches/sec
+15022
+AU cleanups/sec
+15024
+Mixed page allocations/sec
+15026
+Worktables Created/sec
+15028
+LobSS Provider Destroy Count
+15030
+MSSQL$SAP:SQL Errors
+15032
+Errors/sec
+15034
+MSSQL$SAP:SQL Statistics
+15036
+Failed Auto-Params/sec
+15038
+Unsafe Auto-Params/sec
+15040
+Misguided plan executions/sec
+15042
+SQL Attention rate
+15044
+Forced Parameterizations/sec
+15046
+Safe Auto-Params/sec
+15048
+Batch Requests/sec
+15050
+Guided plan executions/sec
+15052
+SQL Re-Compilations/sec
+15054
+SQL Compilations/sec
+15056
+Auto-Param Attempts/sec
+15058
+MSSQL$SAP:Plan Cache
+15060
+Cache Object Counts
+15062
+Cache Hit Ratio Base
+15064
+Cache Pages
+15066
+Cache Hit Ratio
+15068
+Cache Objects in use
+15070
+MSSQL$SAP:Cursor Manager by Type
+15072
+Cursor memory usage
+15074
+Cache Hit Ratio
+15076
+Cursor Cache Use Counts/sec
+15078
+Number of active cursor plans
+15080
+Cached Cursor Counts
+15082
+Cursor Requests/sec
+15084
+Cache Hit Ratio Base
+15086
+Cursor worktable usage
+15088
+Active cursors
+15090
+MSSQL$SAP:Cursor Manager Total
+15092
+Cursor conversion rate
+15094
+Cursor flushes
+15096
+Async population count
+15098
+MSSQL$SAP:Memory Manager
+15100
+Total Server Memory (KB)
+15102
+SQL Cache Memory (KB)
+15104
+Maximum Workspace Memory (KB)
+15106
+Lock Blocks
+15108
+Memory Grants Pending
+15110
+Lock Owner Blocks
+15112
+Lock Memory (KB)
+15114
+Target Server Memory (KB)
+15116
+Connection Memory (KB)
+15118
+Lock Blocks Allocated
+15120
+Optimizer Memory (KB)
+15122
+Lock Owner Blocks Allocated
+15124
+Memory Grants Outstanding
+15126
+Granted Workspace Memory (KB)
+15128
+MSSQL$SAP:User Settable
+15130
+Query
+15132
+MSSQL$SAP:Replication Agents
+15134
+Running
+15136
+MSSQL$SAP:Replication Merge
+15138
+Uploaded Changes/sec
+15140
+Conflicts/sec
+15142
+Downloaded Changes/sec
+15144
+MSSQL$SAP:Replication Logreader
+15146
+Logreader:Delivered Cmds/sec
+15148
+Logreader:Delivery Latency
+15150
+Logreader:Delivered Trans/sec
+15152
+MSSQL$SAP:Replication Dist.
+15154
+Dist:Delivered Trans/sec
+15156
+Dist:Delivered Cmds/sec
+15158
+Dist:Delivery Latency
+15160
+MSSQL$SAP:Replication Snapshot
+15162
+Snapshot:Delivered Trans/sec
+15164
+Snapshot:Delivered Cmds/sec
+15166
+MSSQL$SAP:Backup Device
+15168
+Device Throughput Bytes/sec
+15170
+MSSQL$SAP:Transactions
+15172
+Version Store Size (KB)
+15174
+Longest Transaction Running Time
+15176
+Transactions
+15178
+Version Store unit truncation
+15180
+NonSnapshot Version Transactions
+15182
+Snapshot Transactions
+15184
+Update Snapshot Transactions
+15186
+Version Store unit count
+15188
+Version Store unit creation
+15190
+Version Generation rate (KB/s)
+15192
+Version Cleanup rate (KB/s)
+15194
+Free Space in tempdb (KB)
+15196
+Update conflict ratio
+15198
+Update conflict ratio base
+15200
+MSSQL$SAP:Broker Statistics
+15202
+Enqueued P8 Messages/sec
+15204
+Enqueued P3 Messages/sec
+15206
+Enqueued P7 Messages/sec
+15208
+Enqueued Transport Msg Frags/sec
+15210
+Enqueued P4 Messages/sec
+15212
+SQL SEND Total
+15214
+Enqueued Transport Msg Frag Tot
+15216
+SQL RECEIVEs/sec
+15218
+Enqueued Messages Total
+15220
+Enqueued P10 Messages/sec
+15222
+Corrupted Messages Total
+15224
+Dequeued TransmissionQ Msgs/sec
+15226
+Enqueued Messages/sec
+15228
+SQL SENDs/sec
+15230
+Forwarded Msg Discarded Total
+15232
+Dialog Timer Event Count
+15234
+Activation Errors Total
+15236
+Enqueued TransmissionQ Msgs/sec
+15238
+Forwarded Msg Bytes/sec
+15240
+Forwarded Pending Msg Count
+15242
+Dropped Messages Total
+15244
+SQL RECEIVE Total
+15246
+Enqueued Transport Msgs/sec
+15248
+Enqueued Local Messages Total
+15250
+Enqueued P1 Messages/sec
+15252
+Broker Transaction Rollbacks
+15254
+Enqueued P9 Messages/sec
+15256
+Forwarded Pending Msg Bytes
+15258
+Forwarded Messages Total
+15260
+Enqueued P6 Messages/sec
+15262
+Enqueued Local Messages/sec
+15264
+Forwarded Messages/sec
+15266
+Forwarded Msgs Discarded/sec
+15268
+Enqueued P5 Messages/sec
+15270
+Enqueued Transport Msgs Total
+15272
+Forwarded Msg Byte Total
+15274
+Enqueued P2 Messages/sec
+15276
+MSSQL$SAP:Broker/DBM Transport
+15278
+Msg Fragment Recv Size Avg
+15280
+Current Msg Frags for Send I/O
+15282
+Message Fragment Sends/sec
+15284
+Send I/Os/sec
+15286
+Receive I/O bytes/sec
+15288
+Message Fragment P6 Sends/sec
+15290
+Message Fragment P7 Sends/sec
+15292
+Send I/O Len Avg
+15294
+Message Fragment P5 Sends/sec
+15296
+Msg Fragment Send Size Avg
+15298
+Open Connection Count
+15300
+Send I/O bytes/sec
+15302
+Message Fragment P4 Sends/sec
+15304
+Recv I/O Buffer Copies Count
+15306
+Receive I/O Len Avg
+15308
+Send I/O Len Avg Base
+15310
+Msg Fragment Send Size Avg Base
+15312
+Receive I/O Len Avg Base
+15314
+Message Fragment P1 Sends/sec
+15316
+Message Fragment P2 Sends/sec
+15318
+Pending Bytes for Recv I/O
+15320
+Message Fragment Receives/sec
+15322
+Msg Fragment Recv Size Avg Base
+15324
+Message Fragment P3 Sends/sec
+15326
+Message Fragment P9 Sends/sec
+15328
+Current Bytes for Send I/O
+15330
+Message Fragment P8 Sends/sec
+15332
+Pending Msg Frags for Recv I/O
+15334
+Receive I/Os/sec
+15336
+Message Fragment P10 Sends/sec
+15338
+Pending Bytes for Send I/O
+15340
+Recv I/O Buffer Copies bytes/sec
+15342
+Pending Msg Frags for Send I/O
+15344
+Current Bytes for Recv I/O
+15346
+MSSQL$SAP:Broker Activation
+15348
+Task Limit Reached/sec
+15350
+Task Limit Reached
+15352
+Tasks Running
+15354
+Stored Procedures Invoked/sec
+15356
+Tasks Aborted/sec
+15358
+Tasks Started/sec
+15360
+MSSQL$SAP:Broker TO Statistics
+15362
+Transmission Obj Writes/Sec
+15364
+Avg. Length of Batched Writes
+15366
+Avg. Time to Write Batch (ms)
+15368
+Avg. Time Between Batches Base
+15370
+Avg. Time Between Batches (ms)
+15372
+Avg. Length of Batched Writes BS
+15374
+Transmission Obj Set Dirty/Sec
+15376
+Transmission Obj Gets/Sec
+15378
+Avg. Time to Write Batch Base
+15380
+MSSQL$SAP:Wait Statistics
+15382
+Workspace synchronization waits
+15384
+Non-Page latch waits
+15386
+Page latch waits
+15388
+Thread-safe memory objects waits
+15390
+Page IO latch waits
+15392
+Wait for the worker
+15394
+Log write waits
+15396
+Transaction ownership waits
+15398
+Lock waits
+15400
+Network IO waits
+15402
+Memory grant queue waits
+15404
+Log buffer waits
+15406
+MSSQL$SAP:Exec Statistics
+15408
+OLEDB calls
+15410
+Distributed Query
+15412
+DTC calls
+15414
+Extended Procedures
+15416
+MSSQL$SAP:CLR
+15418
+CLR Execution
+15420
+MSSQL$SAP:Catalog Metadata
+15422
+Cache Entries Count
+15424
+Cache Hit Ratio
+15426
+Cache Hit Ratio Base
+15428
+Cache Entries Pinned Count
+15430
+MSSQL$SAP:Trace Statistics
+15432
+Dropped events/sec
+15434
+Bytes/sec
+15436
+Events Fired/sec
+15438
+Events Filtered/sec
+15440
+MSSQL$SAP:Trace Event Statistics
+15442
+Events Filtered/sec
+15444
+Events Prefiltered/sec
+15446
+CPU Ticks/sec
+15448
+Bytes/sec
+15450
+Events Fired/sec
+15452
+MSSQL$SAP:Deprecated Features
+15454
+Usage
+15456
+MSSQL$SAP:Workload Group Stats
+15458
+Active parallel threads
+15460
+Query optimizations/sec
+15462
+Active requests
+15464
+Queued requests
+15466
+Requests completed/sec
+15468
+CPU usage %
+15470
+Reduced memory grants/sec
+15472
+Suboptimal plans/sec
+15474
+Max request memory grant (KB)
+15476
+Blocked tasks
+15478
+CPU usage % base
+15480
+Max request cpu time (ms)
+15482
+MSSQL$SAP:Resource Pool Stats
+15484
+Max memory (KB)
+15486
+Query exec memory target (KB)
+15488
+Target memory (KB)
+15490
+Memory grants/sec
+15492
+CPU usage %
+15494
+Active memory grant amount (KB)
+15496
+Active memory grants count
+15498
+CPU usage target %
+15500
+Pending memory grants count
+15502
+Cache memory target (KB)
+15504
+CPU control effect %
+15506
+Compile memory target (KB)
+15508
+CPU usage % base
+15510
+Used memory (KB)
+15512
+Memory grant timeouts/sec
+15514
+SQLAgent$SAP:Jobs
+15516
+Failed jobs
+15518
+Successful jobs
+15520
+Active jobs
+15522
+Queued jobs
+15524
+Jobs activated/minute
+15526
+Successful jobs base
+15528
+Job success rate
+15530
+SQLAgent$SAP:JobSteps
+15532
+Queued steps
+15534
+Active steps
+15536
+Total step retries
+15538
+SQLAgent$SAP:Alerts
+15540
+Activated alerts
+15542
+Alerts activated/minute
+15544
+SQLAgent$SAP:Statistics
+15546
+SQL Server restarted
+16112
+ASP.NET State Service
+16338
+State Server Sessions Active
+16340
+State Server Sessions Abandoned
+16342
+State Server Sessions Timed Out
+16344
+State Server Sessions Total
+16346
+ASP.NET
+16348
+ASP.NET Applications
+16350
+Application Restarts
+16352
+Applications Running
+16354
+Requests Disconnected
+16356
+Request Execution Time
+16358
+Requests Rejected
+16360
+Requests Queued
+16362
+Worker Processes Running
+16364
+Worker Process Restarts
+16366
+Request Wait Time
+16368
+State Server Sessions Active
+16370
+State Server Sessions Abandoned
+16372
+State Server Sessions Timed Out
+16374
+State Server Sessions Total
+16376
+Requests Current
+16378
+Audit Success Events Raised
+16380
+Audit Failure Events Raised
+16382
+Error Events Raised
+16384
+Request Error Events Raised
+16386
+Infrastructure Error Events Raised
+16388
+Requests In Native Queue
+16390
+Anonymous Requests
+16392
+Anonymous Requests/Sec
+16394
+Cache Total Entries
+16396
+Cache Total Turnover Rate
+16398
+Cache Total Hits
+16400
+Cache Total Misses
+16402
+Cache Total Hit Ratio
+16404
+Cache Total Hit Ratio Base
+16406
+Cache API Entries
+16408
+Cache API Turnover Rate
+16410
+Cache API Hits
+16412
+Cache API Misses
+16414
+Cache API Hit Ratio
+16416
+Cache API Hit Ratio Base
+16418
+Output Cache Entries
+16420
+Output Cache Turnover Rate
+16422
+Output Cache Hits
+16424
+Output Cache Misses
+16426
+Output Cache Hit Ratio
+16428
+Output Cache Hit Ratio Base
+16430
+Compilations Total
+16432
+Debugging Requests
+16434
+Errors During Preprocessing
+16436
+Errors During Compilation
+16438
+Errors During Execution
+16440
+Errors Unhandled During Execution
+16442
+Errors Unhandled During Execution/Sec
+16444
+Errors Total
+16446
+Errors Total/Sec
+16448
+Pipeline Instance Count
+16450
+Request Bytes In Total
+16452
+Request Bytes Out Total
+16454
+Requests Executing
+16456
+Requests Failed
+16458
+Requests Not Found
+16460
+Requests Not Authorized
+16462
+Requests In Application Queue
+16464
+Requests Timed Out
+16466
+Requests Succeeded
+16468
+Requests Total
+16470
+Requests/Sec
+16472
+Sessions Active
+16474
+Sessions Abandoned
+16476
+Sessions Timed Out
+16478
+Sessions Total
+16480
+Transactions Aborted
+16482
+Transactions Committed
+16484
+Transactions Pending
+16486
+Transactions Total
+16488
+Transactions/Sec
+16490
+Session State Server connections total
+16492
+Session SQL Server connections total
+16494
+Events Raised
+16496
+Events Raised/Sec
+16498
+Application Lifetime Events
+16500
+Application Lifetime Events/Sec
+16502
+Error Events Raised
+16504
+Error Events Raised/Sec
+16506
+Request Error Events Raised
+16508
+Request Error Events Raised/Sec
+16510
+Infrastructure Error Events Raised
+16512
+Infrastructure Error Events Raised/Sec
+16514
+Request Events Raised
+16516
+Request Events Raised/Sec
+16518
+Audit Success Events Raised
+16520
+Audit Failure Events Raised
+16522
+Membership Authentication Success
+16524
+Membership Authentication Failure
+16526
+Forms Authentication Success
+16528
+Forms Authentication Failure
+16530
+Viewstate MAC Validation Failure
+16532
+Request Execution Time
+16534
+Requests Disconnected
+16536
+Requests Rejected
+16538
+Request Wait Time
+16540
+Cache % Machine Memory Limit Used
+16542
+Cache % Machine Memory Limit Used Base
+16544
+Cache % Process Memory Limit Used
+16546
+Cache % Process Memory Limit Used Base
+16548
+Cache Total Trims
+16550
+Cache API Trims
+16552
+Output Cache Trims
+16554
+% Managed Processor Time (estimated)
+16556
+% Managed Processor Time Base (estimated)
+16558
+Managed Memory Used (estimated)
+16560
+Request Bytes In Total (WebSockets)
+16562
+Request Bytes Out Total (WebSockets)
+16564
+Requests Executing (WebSockets)
+16566
+Requests Failed (WebSockets)
+16568
+Requests Succeeded (WebSockets)
+16570
+Requests Total (WebSockets)
+16956
+NPS Authentication Server
+16958
+NPS Authentication Clients
+16960
+NPS Accounting Server
+16962
+NPS Accounting Clients
+16964
+Server Up Time
+16966
+Server Reset Time
+16968
+Invalid Requests
+16970
+Invalid Requests / sec.
+16972
+Packets Sent
+16974
+Packets Sent / sec.
+16976
+Packets Received
+16978
+Packets Received / sec.
+16980
+Malformed Packets
+16982
+Malformed Packets / sec.
+16984
+Bad Authenticators
+16986
+Bad Authenticators / sec.
+16988
+Dropped Packets
+16990
+Dropped Packets / sec.
+16992
+Unknown Type
+16994
+Unknown Type / sec.
+16996
+Access-Requests
+16998
+Access-Requests / sec.
+17000
+Duplicate Access-Requests
+17002
+Duplicate Access-Requests / sec.
+17004
+Access-Accepts
+17006
+Access-Accepts / sec.
+17008
+Access-Rejects
+17010
+Access-Rejects / sec.
+17012
+Access-Challenges
+17014
+Access-Challenges / sec.
+17016
+Quarantine-Decisions
+17018
+Quarantine-Decisions / sec.
+17020
+Probation-Decisions
+17022
+Probation-Decisions / sec.
+17024
+FullAccess-Decisions
+17026
+FullAccess-Decisions / sec.
+17028
+Accounting-Requests
+17030
+Accounting-Requests / sec.
+17032
+Duplicate Accounting-Requests
+17034
+Duplicate Accounting-Requests / sec.
+17036
+Accounting-Responses
+17038
+Accounting-Responses / sec.
+17040
+No Record
+17042
+No Record / sec.
+17044
+NPS Authentication Proxy
+17046
+NPS Remote Authentication Servers
+17048
+NPS Accounting Proxy
+17050
+NPS Remote Accounting Servers
+17052
+Invalid Addresses
+17054
+Invalid Addresses / sec.
+17056
+Port Number
+17058
+Last Round-Trip Time
+17060
+Pending Requests
+17062
+Request Timeouts
+17064
+Request Timeouts / sec.
+17066
+Retransmissions
+17068
+Retransmissions / sec.
+17070
+Access-Requests
+17072
+Access-Requests / sec.
+17074
+Access-Accepts
+17076
+Access-Accepts / sec.
+17078
+Access-Rejects
+17080
+Access-Rejects / sec.
+17082
+Access-Challenges
+17084
+Access-Challenges / sec.
+17086
+Quarantine-Decisions
+17088
+Quarantine-Decisions / sec.
+17090
+Probation-Decisions
+17092
+Probation-Decisions / sec.
+17094
+FullAccess-Decisions
+17096
+FullAccess-Decisions / sec.
+17098
+Accounting-Requests
+17100
+Accounting-Requests / sec.
+17102
+Accounting-Responses
+17104
+Accounting-Responses / sec.
+17106
+NPS System Health Validators
+17108
+NPS Policy Engine
+17110
+Shv Compliances
+17112
+Shv Compliances / sec.
+17114
+Shv NonCompliances
+17116
+Shv NonCompliances / sec.
+17118
+Shv Client-Component Failures
+17120
+Shv Client-Component Failures / sec.
+17122
+Shv Client-Communication Failures
+17124
+Shv Client-Communication Failures /sec.
+17126
+Shv Server-Component Failures
+17128
+Shv Server-Component Failures / sec.
+17130
+Shv Server-Communication Failures
+17132
+Shv Server-Communication Failures / sec.
+17134
+Shv Other Failures
+17136
+Shv Other Failures / sec.
+17138
+Shv None Failures
+17140
+Shv None Failures / sec.
+17142
+Shv Last Round-Trip Time
+17144
+Pending Requests
+17146
+Last Round-Trip Time
+17148
+Matched Remote Access Policies
+17150
+Matched Remote Access Policies / sec.
+17336
+N-able.Agent
+17338
+Current Status
+17340
+Total elements in scan task table
+17342
+Total busy threads of scan tasks
+17344
+Total idle threads of scan tasks
+17346
+Total busy threads of Remote tasks
+17348
+Total idle threads of Remote tasks
+17350
+Total elements in task response queue
+17352
+WMI Objects
+17354
+HiPerf Classes
+17356
+HiPerf Validity
+17358
+MSiSCSI_ConnectionStatistics
+17360
+BytesReceived
+17362
+BytesSent
+17364
+PDUCommandsSent
+17366
+PDUResponsesReceived
+17368
+MSiSCSI_InitiatorInstanceStatistics
+17370
+SessionConnectionTimeoutErrorCount
+17372
+SessionDigestErrorCount
+17374
+SessionFailureCount
+17376
+SessionFormatErrorCount
+17378
+MSiSCSI_InitiatorLoginStatistics
+17380
+LoginAcceptRsps
+17382
+LoginAuthenticateFails
+17384
+LoginAuthFailRsps
+17386
+LoginFailures
+17388
+LoginNegotiateFails
+17390
+LoginOtherFailRsps
+17392
+LoginRedirectRsps
+17394
+LogoutNormals
+17396
+LogoutOtherCodes
+17398
+MSiSCSI_MMIPSECStats
+17400
+AcquireFailures
+17402
+AcquireHeapSize
+17404
+ActiveAcquire
+17406
+ActiveReceive
+17408
+AuthenticationFailures
+17410
+ConnectionListSize
+17412
+GetSPIFailures
+17414
+InvalidCookiesReceived
+17416
+InvalidPackets
+17418
+KeyAdditionFailures
+17420
+KeyAdditions
+17422
+KeyUpdateFailures
+17424
+KeyUpdates
+17426
+NegotiationFailures
+17428
+OakleyMainMode
+17430
+OakleyQuickMode
+17432
+ReceiveFailures
+17434
+ReceiveHeapSize
+17436
+SendFailures
+17438
+SoftAssociations
+17440
+TotalGetSPI
+17442
+MSiSCSI_NICPerformance
+17444
+BytesReceived
+17446
+BytesTransmitted
+17448
+PDUReceived
+17450
+PDUTransmitted
+17452
+MSiSCSI_QMIPSECStats
+17454
+ActiveSA
+17456
+ActiveTunnels
+17458
+AuthenticatedBytesReceived
+17460
+AuthenticatedBytesSent
+17462
+BadSPIPackets
+17464
+ConfidentialBytesReceived
+17466
+ConfidentialBytesSent
+17468
+KeyAdditions
+17470
+KeyDeletions
+17472
+PacketsNotAuthenticated
+17474
+PacketsNotDecrypted
+17476
+PacketsWithReplayDetection
+17478
+PendingKeyOperations
+17480
+ReKeys
+17482
+TransportBytesReceived
+17484
+TransportBytesSent
+17486
+TunnelBytesReceived
+17488
+TunnelBytesSent
+17490
+MSiSCSI_RequestTimeStatistics
+17492
+AverageProcessingTime
+17494
+MaximumProcessingTime
+17496
+MSiSCSI_SessionStatistics
+17498
+BytesReceived
+17500
+BytesSent
+17502
+ConnectionTimeoutErrors
+17504
+DigestErrors
+17506
+FormatErrors
+17508
+PDUCommandsSent
+17510
+PDUResponsesReceived
+17512
+ProcessorPerformance
+17514
+frequency
+17516
+percentage
+17518
+power
+5348
+WorkflowServiceHost 4.0.0.0
+5350
+Workflows Created
+5352
+Workflows Created Per Second
+5354
+Workflows Executing
+5356
+Workflows Completed
+5358
+Workflows Completed Per Second
+5360
+Workflows Aborted
+5362
+Workflows Aborted Per Second
+5364
+Workflows In Memory
+5366
+Workflows Persisted
+5368
+Workflows Persisted Per Second
+5370
+Workflows Terminated
+5372
+Workflows Terminated Per Second
+5374
+Workflows Loaded
+5376
+Workflows Loaded Per Second
+5378
+Workflows Unloaded
+5380
+Workflows Unloaded Per Second
+5382
+Workflows Suspended
+5384
+Workflows Suspended Per Second
+5386
+Workflows Idle Per Second
+5388
+Average Workflow Load Time
+5390
+Average Workflow Load Time Base
+5392
+Average Workflow Persist Time
+5394
+Average Workflow Persist Time Base
+2580
+Terminal Services
+2582
+Active Sessions
+2584
+Inactive Sessions
+2586
+Total Sessions
+1862
+WFPv4
+1864
+Inbound Packets Discarded/sec
+1866
+Outbound Packets Discarded/sec
+1868
+Packets Discarded/sec
+1870
+Blocked Binds
+1872
+Inbound Connections Blocked/sec
+1874
+Outbound Connections Blocked/sec
+1876
+Inbound Connections Allowed/sec
+1878
+Outbound Connections Allowed/sec
+1880
+Inbound Connections
+1882
+Outbound Connections
+1884
+Active Inbound Connections
+1886
+Active Outbound Connections
+1888
+Allowed Classifies/sec
+1922
+IPsec Driver
+1924
+Active Security Associations
+1926
+Pending Security Associations
+1928
+Incorrect SPI Packets
+1930
+Bytes Received in Tunnel Mode/sec
+1932
+Bytes Sent in Tunnel Mode/sec
+1934
+Bytes Received in Transport Mode/sec
+1936
+Bytes Sent in Transport Mode/sec
+1938
+Offloaded Security Associations
+1940
+Offloaded Bytes Received/sec
+1942
+Offloaded Bytes Sent/sec
+1944
+Packets That Failed Replay Detection
+1946
+Packets Not Authenticated
+1948
+Packets Not Decrypted
+1950
+SA Rekeys
+1952
+Security Associations Added
+1954
+Packets That Failed ESP Validation
+1956
+Packets That Failed UDP-ESP Validation
+1958
+Packets Received Over Wrong SA
+1960
+Plaintext Packets Received
+1918
+WFP
+1920
+Provider Count
+1890
+WFPv6
+1892
+Inbound Packets Discarded/sec
+1894
+Outbound Packets Discarded/sec
+1896
+Packets Discarded/sec
+1898
+Blocked Binds
+1900
+Inbound Connections Blocked/sec
+1902
+Outbound Connections Blocked/sec
+1904
+Inbound Connections Allowed/sec
+1906
+Outbound Connections Allowed/sec
+1908
+Inbound Connections
+1910
+Outbound Connections
+1912
+Active Inbound Connections
+1914
+Active Outbound Connections
+1916
+Allowed Classifies/sec
+2690
+Authorization Manager Applications
+2692
+Total number of scopes
+2694
+Number of Scopes loaded in memory
+11174
+DFS Replicated Folders
+11176
+Staging Files Generated
+11178
+Staging Bytes Generated
+11180
+Staging Files Cleaned up
+11182
+Staging Bytes Cleaned up
+11184
+Staging Space In Use
+11186
+Conflict Files Generated
+11188
+Conflict Bytes Generated
+11190
+Conflict Files Cleaned up
+11192
+Conflict Bytes Cleaned up
+11194
+Conflict Space In Use
+11196
+Conflict Folder Cleanups Completed
+11198
+File Installs Succeeded
+11200
+File Installs Retried
+11202
+Updates Dropped
+11204
+Deleted Files Generated
+11206
+Deleted Bytes Generated
+11208
+Deleted Files Cleaned up
+11210
+Deleted Bytes Cleaned up
+11212
+Deleted Space In Use
+11214
+Total Files Received
+11216
+Size of Files Received
+11218
+Compressed Size of Files Received
+11220
+RDC Number of Files Received
+11222
+RDC Size of Files Received
+11224
+RDC Compressed Size of Files Received
+11226
+RDC Bytes Received
+11228
+Bandwidth Savings Using DFS Replication
+11230
+DFS Replication Connections
+11232
+Total Bytes Received
+11234
+Total Files Received
+11236
+Size of Files Received
+11238
+Compressed Size of Files Received
+11240
+Bytes Received Per Second
+11242
+RDC Number of Files Received
+11244
+RDC Size of Files Received
+11246
+RDC Compressed Size of Files Received
+11248
+RDC Bytes Received
+11250
+Bandwidth Savings Using DFS Replication
+11162
+DFS Replication Service Volumes
+11164
+USN Journal Records Read
+11166
+USN Journal Records Accepted
+11168
+USN Journal Unread Percentage
+11170
+Database Commits
+11172
+Database Lookups
+2158
+Generic IKE and AuthIP
+2160
+IKE Main Mode Negotiation Time
+2162
+AuthIP Main Mode Negotiation Time
+2164
+IKE Quick Mode Negotiation Time
+2166
+AuthIP Quick Mode Negotiation Time
+2168
+Extended Mode Negotiation Time
+2170
+Packets Received/sec
+2172
+Invalid Packets Received/sec
+2174
+Successful Negotiations
+2176
+Successful Negotiations/sec
+2178
+Failed Negotiations
+2180
+Failed Negotiations/sec
+2038
+IPsec AuthIPv4
+2040
+Active Main Mode SAs
+2042
+Pending Main Mode Negotiations
+2044
+Main Mode Negotiations
+2046
+Main Mode Negotiations/sec
+2048
+Successful Main Mode Negotiations
+2050
+Successful Main Mode Negotiations/sec
+2052
+Failed Main Mode Negotiations
+2054
+Failed Main Mode Negotiations/sec
+2056
+Main Mode Negotiation Requests Received
+2058
+Main Mode Negotiation Requests Received/sec
+2060
+Main Mode SAs That Used Impersonation
+2062
+Main Mode SAs That Used Impersonation/sec
+2064
+Active Quick Mode SAs
+2066
+Pending Quick Mode Negotiations
+2068
+Quick Mode Negotiations
+2070
+Quick Mode Negotiations/sec
+2072
+Successful Quick Mode Negotiations
+2074
+Successful Quick Mode Negotiations/sec
+2076
+Failed Quick Mode Negotiations
+2078
+Failed Quick Mode Negotiations/sec
+2080
+Active Extended Mode SAs
+2082
+Pending Extended Mode Negotiations
+2084
+Extended Mode Negotiations
+2086
+Extended Mode Negotiations/sec
+2088
+Successful Extended Mode Negotiations
+2090
+Successful Extended Mode Negotiations/sec
+2092
+Failed Extended Mode Negotiations
+2094
+Failed Extended Mode Negotiations/sec
+2096
+Extended Mode SAs That Used Impersonation
+2098
+IPsec AuthIPv6
+2100
+Active Main Mode SAs
+2102
+Pending Main Mode Negotiations
+2104
+Main Mode Negotiations
+2106
+Main Mode Negotiations/sec
+2108
+Successful Main Mode Negotiations
+2110
+Successful Main Mode Negotiations/sec
+2112
+Failed Main Mode Negotiations
+2114
+Failed Main Mode Negotiations/sec
+2116
+Main Mode Negotiation Requests Received
+2118
+Main Mode Negotiation Requests Received/sec
+2120
+Main Mode SAs That Used Impersonation
+2122
+Main Mode SAs That Used Impersonation/sec
+2124
+Active Quick Mode SAs
+2126
+Pending Quick Mode Negotiations
+2128
+Quick Mode Negotiations
+2130
+Quick Mode Negotiations/sec
+2132
+Successful Quick Mode Negotiations
+2134
+Successful Quick Mode Negotiations/sec
+2136
+Failed Quick Mode Negotiations
+2138
+Failed Quick Mode Negotiations/sec
+2140
+Active Extended Mode SAs
+2142
+Pending Extended Mode Negotiations
+2144
+Extended Mode Negotiations
+2146
+Extended Mode Negotiations/sec
+2148
+Successful Extended Mode Negotiations
+2150
+Successful Extended Mode Negotiations/sec
+2152
+Failed Extended Mode Negotiations
+2154
+Failed Extended Mode Negotiations/sec
+2156
+Extended Mode SAs That Used Impersonation
+1962
+IPsec IKEv4
+1964
+Active Main Mode SAs
+1966
+Pending Main Mode Negotiations
+1968
+Main Mode Negotiations
+1970
+Main Mode Negotiations/sec
+1972
+Successful Main Mode Negotiations
+1974
+Successful Main Mode Negotiations/sec
+1976
+Failed Main Mode Negotiations
+1978
+Failed Main Mode Negotiations/sec
+1980
+Main Mode Negotiation Requests Received
+1982
+Main Mode Negotiation Requests Received/sec
+1984
+Active Quick Mode SAs
+1986
+Pending Quick Mode Negotiations
+1988
+Quick Mode Negotiations
+1990
+Quick Mode Negotiations/sec
+1992
+Successful Quick Mode Negotiations
+1994
+Successful Quick Mode Negotiations/sec
+1996
+Failed Quick Mode Negotiations
+1998
+Failed Quick Mode Negotiations/sec
+2000
+IPsec IKEv6
+2002
+Active Main Mode SAs
+2004
+Pending Main Mode Negotiations
+2006
+Main Mode Negotiations
+2008
+Main Mode Negotiations/sec
+2010
+Successful Main Mode Negotiations
+2012
+Successful Main Mode Negotiations/sec
+2014
+Failed Main Mode Negotiations
+2016
+Failed Main Mode Negotiations/sec
+2018
+Main Mode Negotiation Requests Received
+2020
+Main Mode Negotiation Requests Received/sec
+2022
+Active Quick Mode SAs
+2024
+Pending Quick Mode Negotiations
+2026
+Quick Mode Negotiations
+2028
+Quick Mode Negotiations/sec
+2030
+Successful Quick Mode Negotiations
+2032
+Successful Quick Mode Negotiations/sec
+2034
+Failed Quick Mode Negotiations
+2036
+Failed Quick Mode Negotiations/sec
+5044
+ServiceModelService 4.0.0.0
+5046
+Calls
+5048
+Calls Per Second
+5050
+Calls Outstanding
+5052
+Calls Failed
+5054
+Calls Failed Per Second
+5056
+Calls Faulted
+5058
+Calls Faulted Per Second
+5060
+Calls Duration
+5062
+Security Validation and Authentication Failures
+5064
+Security Validation and Authentication Failures Per Second
+5066
+Security Calls Not Authorized
+5068
+Security Calls Not Authorized Per Second
+5070
+Instances
+5072
+Instances Created Per Second
+5074
+Reliable Messaging Sessions Faulted
+5076
+Reliable Messaging Sessions Faulted Per Second
+5078
+Reliable Messaging Messages Dropped
+5080
+Reliable Messaging Messages Dropped Per Second
+5082
+Transactions Flowed
+5084
+Transactions Flowed Per Second
+5086
+Transacted Operations Committed
+5088
+Transacted Operations Committed Per Second
+5090
+Transacted Operations Aborted
+5092
+Transacted Operations Aborted Per Second
+5094
+Transacted Operations In Doubt
+5096
+Transacted Operations In Doubt Per Second
+5098
+Queued Poison Messages
+5100
+Queued Poison Messages Per Second
+5102
+Queued Messages Rejected
+5104
+Queued Messages Rejected Per Second
+5106
+Queued Messages Dropped
+5108
+Queued Messages Dropped Per Second
+5110
+Percent Of Max Concurrent Calls
+5112
+Percent Of Max Concurrent Instances
+5114
+Percent Of Max Concurrent Sessions
+5116
+CallDurationBase
+5118
+CallsPercentMaxConcurrentCallsBase
+5120
+InstancesPercentMaxConcurrentInstancesBase
+5122
+SessionsPercentMaxConcurrentSessionsBase
+5164
+ServiceModelOperation 4.0.0.0
+5166
+Calls
+5168
+Calls Per Second
+5170
+Calls Outstanding
+5172
+Calls Failed
+5174
+Call Failed Per Second
+5176
+Calls Faulted
+5178
+Calls Faulted Per Second
+5180
+Calls Duration
+5182
+Security Validation and Authentication Failures
+5184
+Security Validation and Authentication Failures Per Second
+5186
+Security Calls Not Authorized
+5188
+Security Calls Not Authorized Per Second
+5190
+Transactions Flowed
+5192
+Transactions Flowed Per Second
+5194
+CallsDurationBase
+5124
+ServiceModelEndpoint 4.0.0.0
+5126
+Calls
+5128
+Calls Per Second
+5130
+Calls Outstanding
+5132
+Calls Failed
+5134
+Calls Failed Per Second
+5136
+Calls Faulted
+5138
+Calls Faulted Per Second
+5140
+Calls Duration
+5142
+Security Validation and Authentication Failures
+5144
+Security Validation and Authentication Failures Per Second
+5146
+Security Calls Not Authorized
+5148
+Security Calls Not Authorized Per Second
+5150
+Reliable Messaging Sessions Faulted
+5152
+Reliable Messaging Sessions Faulted Per Second
+5154
+Reliable Messaging Messages Dropped
+5156
+Reliable Messaging Messages Dropped Per Second
+5158
+Transactions Flowed
+5160
+Transactions Flowed Per Second
+5162
+CallDurationBase
+2672
+HTTP Service Request Queues
+2674
+CurrentQueueSize
+2676
+MaxQueueItemAge
+2678
+ArrivalRate
+2680
+RejectionRate
+2682
+RejectedRequests
+2684
+CacheHitRate
+2652
+HTTP Service Url Groups
+2654
+BytesSentRate
+2656
+BytesReceivedRate
+2658
+BytesTransferredRate
+2660
+CurrentConnections
+2662
+MaxConnections
+2664
+ConnectionAttempts
+2666
+GetRequests
+2668
+HeadRequests
+2670
+AllRequests
+2638
+HTTP Service
+2640
+CurrentUrisCached
+2642
+TotalUrisCached
+2644
+UriCacheHits
+2646
+UriCacheMisses
+2648
+UriCacheFlushes
+2650
+TotalFlushedUris
+1848
+Netlogon
+1850
+Semaphore Waiters
+1852
+Semaphore Holders
+1854
+Semaphore Acquires
+1856
+Semaphore Timeouts
+1858
+Average Semaphore Hold Time
+1860
+Semaphore Hold Time Base
+15716
+BranchCache
+15718
+Retrieval: Bytes from server
+15720
+Retrieval: Bytes from cache
+15722
+Retrieval: Bytes served
+15724
+Discovery: Weighted average discovery time
+15726
+SMB: Bytes from cache
+15728
+SMB: Bytes from server
+15730
+BITS: Bytes from cache
+15732
+BITS: Bytes from server
+15734
+WININET: Bytes from cache
+15736
+WININET: Bytes from server
+15738
+WINHTTP: Bytes from cache
+15740
+WINHTTP: Bytes from server
+15742
+OTHER: Bytes from cache
+15744
+OTHER: Bytes from server
+15746
+Discovery: Attempted discoveries
+15748
+Local Cache: Cache complete file segments
+15750
+Local Cache: Cache partial file segments
+15752
+Hosted Cache: Client file segment offers made
+15754
+Retrieval: Average branch rate
+15756
+Discovery: Successful discoveries
+15758
+Hosted Cache: Segment offers queue size
+5570
+WSMan Quota Statistics
+5572
+Total Requests/Second
+5574
+User Quota Violations/Second
+5576
+System Quota Violations/Second
+5578
+Active Shells
+5580
+Active Operations
+5582
+Active Users
+2696
+TBS counters
+2698
+CurrentContexts
+2700
+CurrentResources
+

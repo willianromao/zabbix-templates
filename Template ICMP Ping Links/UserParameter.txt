@@ -1,0 +1,3 @@
+UserParameter=int.scan,/root/scripts/int_scan.sh
+
+UserParameter=int.ping[*],/root/scripts/int_ping.sh $1 $2

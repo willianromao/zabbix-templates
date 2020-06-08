@@ -1,0 +1,22 @@
+Listening on em0
+   # Host name (port/service if enabled)            last 2s   last 10s   last 40s cumulative
+--------------------------------------------------------------------------------------------
+   1 45.4.194.110:6247                        =>     1.35Mb      358Kb     89.5Kb      448KB
+     speedtest.megatelecom.com.br:80          <=     27.8Kb     8.65Kb     2.16Kb     10.8KB
+   2 45.4.194.110:6248                        =>      949Kb      248Kb     61.9Kb      310KB
+     speedtest.megatelecom.com.br:80          <=     26.4Kb     7.10Kb     1.78Kb     8.88KB
+   3 45.4.194.110:6249                        =>      727Kb      301Kb     75.2Kb      376KB
+     speedtest.megatelecom.com.br:80          <=     19.8Kb     9.13Kb     2.28Kb     11.4KB
+   4 45.4.194.110:6243                        =>      703Kb      282Kb     70.5Kb      352KB
+     speedtest.megatelecom.com.br:80          <=     20.5Kb     8.52Kb     2.13Kb     10.7KB
+   5 45.4.194.110:6251                        =>      691Kb      283Kb     70.7Kb      354KB
+     speedtest.megatelecom.com.br:80          <=     18.5Kb     8.24Kb     2.06Kb     10.3KB
+--------------------------------------------------------------------------------------------
+Total send rate:                                     7.10Mb     3.01Mb      865Kb
+Total receive rate:                                   205Kb     4.00Mb     2.67Mb
+Total send and receive rate:                         7.30Mb     7.01Mb     3.51Mb
+--------------------------------------------------------------------------------------------
+Peak rate (sent/received/total):                     7.10Mb     10.9Mb     11.3Mb
+Cumulative (sent/received/total):                    4.22MB     13.3MB     17.6MB
+============================================================================================
+

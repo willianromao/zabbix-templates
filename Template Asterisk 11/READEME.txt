@@ -1,0 +1,127 @@
+Hi, this is a asterisk template made by me to monitor asterisk servers.
+
+how to implant:
+
+1. add the xml template to Configuration -> Templates.
+
+2. adding scripts /home/zabbix/ or your own path of zabbix scripts. 
+
+3. add permission for scripts:
+
+chmod +x SCRIPTNAME
+
+chown zabbix. SCRIPTNAME
+
+4. add this user parameter to /etc/zabbix/zabbix_agent.conf:
+
+UserParameter=ast.up,/opt/zabbix/externalscripts/ast_up.sh
+
+UserParameter=calls.num,/opt/zabbix/externalscripts/calles_num.sh
+
+UserParameter=cpu.load,/opt/zabbix/externalscripts/cpu_load.sh
+
+UserParameter=disk.space,/opt/zabbix/externalscripts/disk_space.sh
+
+UserParameter=last.reload,/opt/zabbix/externalscripts/ast_uptime_last_reload.sh
+
+UserParameter=mmysql.stat,/opt/zabbix/externalscripts/mysql_status.sh
+
+UserParameter=main.space,/opt/zabbix/externalscripts/main_space.sh
+
+UserParameter=regis.time,/opt/zabbix/externalscripts/ms_time.sh
+
+UserParameter=trunk.down,/opt/zabbix/externalscripts/trunk_down.sh
+
+UserParameter=boot.space,/opt/zabbix/externalscripts/boot_space.sh
+
+UserParameter=worng.pass,/opt/zabbix/externalscripts/worng_pass.sh
+
+UserParameter=call.graf,/opt/zabbix/externalscripts/graf_calls.sh
+
+UserParameter=total.proc,/opt/zabbix/externalscripts/total_proc.sh
+
+UserParameter=proc.graf,/opt/zabbix/externalscripts/total_proc_graf.sh
+
+UserParameter=failban.stat,/opt/zabbix/externalscripts/fail2ban_up.sh
+
+UserParameter=iptables.up,/opt/zabbix/externalscripts/iptables_status.sh
+
+UserParameter=long.call, /opt/zabbix/externalscripts/longest_call.sh
+
+UserParameter=mount.down,/opt/zabbix/externalscripts/mount_down.sh
+
+UserParameter=Replica.check,/opt/zabbix/externalscripts/Replica_check.sh
+
+UserParameter=ast.crash,/opt/zabbix/externalscripts/ast_crashes.sh
+
+UserParameter=iax.ms,/opt/zabbix/externalscripts/iax_ms_time.sh
+
+UserParameter=iax.trunks,/opt/zabbix/externalscripts/iax_trunk_down.sh
+
+UserParameter=trunk.scan,/opt/zabbix/externalscripts/trunk_scan.sh
+
+UserParameter=trunk.registry[*],/opt/zabbix/externalscripts/trunk_registry.sh $1 $2
+
+UserParameter=ramal.scan,/opt/zabbix/externalscripts/ramal_scan.sh
+
+UserParameter=ramal.registry[*],/opt/zabbix/externalscripts/ramal_registry.sh $1
+
+UserParameter=ramal.ping[*],/opt/zabbix/externalscripts/ramal_ping.sh $1
+
+UserParameter=iax.scan,/opt/zabbix/externalscripts/iax_scan.sh
+
+UserParameter=iax.registry[*],/opt/zabbix/externalscripts/iax_registry.sh $1
+
+UserParameter=iax.latencia[*],/opt/zabbix/externalscripts/iax_latencia.sh $1
+
+
+dont forget to restart zabbix_agent after adding this parameters
+
+only after that you can assign the template to a host.
+
+of course change /home/zabbix/ to your own path if needed 
+
+
+
+##############################
+
+this template is made on Asterisk 13 so fell free to change scripts asterisk command to work for you.
+
+for past versions if needed remove "core" from the command in the script
+
+##################################
+
+special scripts:
+
+total calls Graph
+
+Longest call - call above 2 hours will be hung up 
+
+iax and sip trunks down trigger
+
+wrong password register trigger
+
+fail2ban & iptables down trigger
+
+asterisk crashing trigger
+
+mount down (Origenly used for /var/spool/asterisk/monitor nfs mount if down )
+
+go to this script and manually change your PATH
+
+ast up script - check if asterisk is down.
+
+edit /etc/sudoers
+zabbix ALL = NOPASSWD: ALL
+
+Install fping
+# wget http://fping.org/dist/fping-3.10.tar.gz
+# tar xf fping-3.10.tar.gz
+# cd fping-3.10
+# ./configure --prefix=/usr/local --enable-ipv4 --enable-ipv6
+# make install
+# ln -s /usr/local/sbin/fping /usr/sbin/fping
+# ln -s /usr/local/sbin/fping6 /usr/sbin/fping6
+
+PARA SERVER, AGENT E PROXY
+Timeout=30

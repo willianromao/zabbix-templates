@@ -1,0 +1,3 @@
+UserParameter=cpu_cores.discovery,/usr/local/bin/cpu_cores_scan.bash
+UserParameter=cpu.temperature[*],/usr/local/bin/cpu_temperature.bash $1
+UserParameter=hw.temperature,/usr/local/bin/hw_temperature.sh

@@ -1,0 +1,10 @@
+UserParameter=mysql.ping,sudo mysqladmin --defaults-extra-file=/etc/zabbix/my.conf ping | wc -l
+UserParameter=mysql.version,sudo mysql --defaults-extra-file=/etc/zabbix/my.conf -V | awk '{print $3}'
+UserParameter=mysql.status[*],sudo mysql --defaults-extra-file=/etc/zabbix/my.conf -s -e "show global status like '$1'" | tail -n1 | cut -f 2
+UserParameter=mysql.size[*],sudo /extra/zabbix/externalscripts/mysql_size.sh '$1'
+
+chown zabbix /etc/zabbix/my.conf ; chmod 750 /etc/zabbix/my.conf
+/etc/zabbix/my.conf
+[client]
+user=root
+password=Scrf

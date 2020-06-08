@@ -1,0 +1,21 @@
+pkg install py27-speedtest-cli
+chmod 755 /root/scripts/*
+cron 0 * * * *	root	/root/scripts/speedtest.sh
+
+MULTI WAN
+
+UserParameter=speedtest.scan,/root/scripts/speedtest_scan.sh
+UserParameter=speedtest.download[*],cat /tmp/speedtest_$1.tmp | grep -iw download: | cut -d " " -f2
+UserParameter=speedtest.latencia[*],cat /tmp/speedtest_$1.tmp | grep -iw ms | cut -d: -f2 | cut -d " " -f2
+UserParameter=speedtest.server[*],cat /tmp/speedtest_$1.tmp | grep -iw 'hosted by' | cut -d '(' -f1 | sed 's/hosted by //gi'
+UserParameter=speedtest.upload[*],cat /tmp/speedtest_$1.tmp | grep -iw upload: | cut -d " " -f2
+UserParameter=speedtest.gateway[*],cat /tmp/speedtest_$1.tmp | grep -iw 'testing from' | cut -d '(' -f1 | sed 's/testing from //gi'
+
+SINGLE WAN
+
+UserParameter=speedtest.scan,/root/scripts/speedtest_scan.sh
+UserParameter=speedtest.download[*],cat /tmp/speedtest.tmp | grep -iw download: | cut -d " " -f2
+UserParameter=speedtest.latencia[*],cat /tmp/speedtest.tmp | grep -iw ms | cut -d: -f2 | cut -d " " -f2
+UserParameter=speedtest.server[*],cat /tmp/speedtest.tmp | grep -iw 'hosted by' | cut -d '(' -f1 | sed 's/hosted by //gi'
+UserParameter=speedtest.upload[*],cat /tmp/speedtest.tmp | grep -iw upload: | cut -d " " -f2
+UserParameter=speedtest.gateway[*],cat /tmp/speedtest.tmp | grep -iw 'testing from' | cut -d '(' -f1 | sed 's/testing from //gi'

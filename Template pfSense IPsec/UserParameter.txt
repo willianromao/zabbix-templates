@@ -1,0 +1,11 @@
+UserParameter=ipsec.scan,cat /root/scripts/ipsec_scan.sh
+
+UserParameter=ipsec.tunnel[*],/root/scripts/ipsec.sh $1
+
+UserParameter=ipsec.test[*],/root/scripts/ipsec.sh $1 $2
+
+UserParameter=ipsec.latencia[*],/root/scripts/ipsec_latencia.sh $1 $2
+
+AllowRoot=1
+
+User=root

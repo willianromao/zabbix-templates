@@ -1,0 +1,11 @@
+GRANT ALL PRIVILEGES ON zm.* TO zabbix@localhost IDENTIFIED BY 'Scrf@2015' WITH GRANT OPTION;
+
+pkg install mysql56-client
+GRANT ALL PRIVILEGES ON zm.* TO 'portal'@'%' IDENTIFIED BY 'Scrf@2015' WITH GRANT OPTION;
+AllowRoot=1
+User=root
+
+UserParameter=zm.scan,/root/scripts/zm_scan.sh
+UserParameter=zm.event[*],/root/scripts/zm_event.sh $1
+UserParameter=zm.status,/root/scripts/zm_status.sh
+

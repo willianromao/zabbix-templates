@@ -1,0 +1,5 @@
+UserParameter=AntivirusProduct[*],powershell -NoProfile -ExecutionPolicy Bypass -File C:\Zabbix\AntivirusProduct.ps1 $1
+
+UserParameter=FirewallProduct[*],powershell -NoProfile -ExecutionPolicy Bypass -File C:\Zabbix\FirewallProduct.ps1 $1
+
+UserParameter=WUpdates[*],powershell -NoProfile -ExecutionPolicy Bypass -File C:\Zabbix\WUpdates.ps1 -Category  $1 | Measure-Object | Format-Wide -Property Count
